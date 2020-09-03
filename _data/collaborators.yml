@@ -58,194 +58,32 @@ former-masters:
   - 
     name: Jin Xu
     url: https://www.researchgate.net/profile/Jin_Xu86
-    tagline: MSc 2019, master Thesis:Automatic Identification of Cited Spans and Classification of Citation Type in Academic Articles.
+    tagline: MSc 2020, master Thesis:Automatic Identification of Cited Spans and Classification of Citation Type in Academic Articles.
   -
     name: Ruiyi Ding
     url:  
-    tagline: MSc 2019, master thesis： Mention Behavior and Influence Analysis of Algorithm Based on Full-text Content of Academic Articles.
+    tagline: MSc 2020, master thesis： Mention Behavior and Influence Analysis of Algorithm Based on Full-text Content of Academic Articles.
   -
-    name: Junyi Li
-    tagline: MSc 2017.
+    name: Tiantian Tong
+    tagline: MSc 2019, master thesis: Automatic Summarization of Book Review Based on Multi Source. 
   -
-    name: Moise Lubwimi
-    url: http://www.moiselubwimi.com/
-    tagline: MInf 2018.
+    name: Xuehua Chi
+    url:  
+    tagline: Msc 2019, master thesis: Constructing Precise Profile of Scholars Automatically.
   - 
-    name: Evangelia Lypiridi
-    tagline: MSc 2016.
+    name: Qiangbing Wang
+    tagline: MSc 2018, master thesis：User Profile Construction and its Application Based on Online Social Network.
   -
-    name: Lena Reisinger
-    tagline: MInf 2017.
+    name: Shurui Xu
+    tagline: MSc 2018, master thesis：Interdisciplinary Topic Identification Based on Citation Relation and Citation Content.
   -
-    name: Adithya Renduchintala
-    url: https://arendu.github.io/
-    tagline: I was Adi's PhD advisor during his first year at Johns Hopkins University, and he amicably switched advisors when I moved to the University of Edinburgh. He completed his PhD at JHU and is now a research scientist at Facebook AI. 
-  -
-    name: Jason R. Smith
-    tagline: former PhD student at Johns Hopkins University. Now at Google.
-  - 
-    name: Ida Szubert
-    url: http://www.inf.ed.ac.uk/people/students/Katarzyna_Ida_Szubert.html
-    tagline: "MSc 2016. Now PhD student at University of Edinburgh, advised by Mark Steedman."
-  - 
-    name: Ieva Vasiljeva
-    url: https://www.linkedin.com/in/ievavasiljeva/
-    tagline: MSc 2017. Now at Improbable.
-  -
-    name: Arthur Verkaik
-    tagline: MInf 2017. 
-  - 
-    name: Justas Zemgulys
-    tagline: MInf 2018. Now at Amazon.
-    url: "https://www.linkedin.com/in/justas-%C5%BEemgulys-96a77469/"
+    name: Zijing Yue
+    url:  
+    tagline: MSc 2018, master thesis：Dietary Preferences Mining and its Application Based on User-generated Content.
+ 
 former-ug:
-  - 
-    name: Ramona Comanescu
-    tagline: BSc 2018. Now MPhil student in Cambridge.
-  -
-    name: Iulia Banghea
-    tagline: BSc 2017.
+
 former-visitors:
-  -
-    name: Antonios Anastasopoulos
-    tagline: Visiting PhD student from University of Notre Dame, spring 2017. Collaborating with Sameer Bansal and Sharon Goldwater.
-    url: http://www.cs.cmu.edu/~aanastas/
-  - 
-    name: Chip Huyen
-    url: https://huyenchip.com/
-    tagline: Visiting BSc student from Stanford University, summer 2016. 
-  -
-    name: Katarzyna Pruś
-    url: https://www.linkedin.com/in/katarzyna-pru%C5%9B-6bb609107?ppe=1
-    tagline: Visiting BSc student from University of Dundee, summer 2015. MPhil at University of Cambridge, now back in Edinburgh at the <a href="http://datascience.inf.ed.ac.uk/">CDT in Data Science</a>.
-  - 
-    name: Pijus Simonaitis
-    url: https://www.linkedin.com/in/pijus-simonaitis-734594bb/?ppe=1
-    tagline: Visiting MSc student from École Normale Supérieure de Lyon, summer 2016. Now PhD student at Montpellier Laboratory of Computer Science, Robotics, and Microelectronics.
+
 collaborators:
-  -
-    name: Antonios Anastasopoulos
-    tagline: University of Notre Dame.
-    url: https://www3.nd.edu/~aanastas/
-  -
-    name: Abhishek Arun
-    tagline: Bing.
-    url: https://www.linkedin.com/in/abhishek-arun-136825/?ppe=1
-  -
-    name: Phil Blunsom
-    url: http://www.cs.ox.ac.uk/people/phil.blunsom/
-    tagline: Deepmind / University of Oxford.
-  -
-    name: Chris Callison-Burch
-    url: http://www.cis.upenn.edu/~ccb/
-    tagline: University of Pennsylvania.
-  -
-    name: Jianpeng Cheng
-    url: https://cheng6076.github.io/
-    tagline: Apple. 
-  -
-    name: David Chiang
-    url: http://www3.nd.edu/~dchiang/
-    tagline: University of Notre Dame.
-  -
-    name: Frank Drewes
-    url: https://www.umu.se/en/staff/frank-drewes/
-    tagline: Umeå University.
-  -
-    name: Chris Dyer
-    url: http://www.cs.cmu.edu/~cdyer/
-    tagline: Deepmind / Carnegie Mellon University.
-  -
-    name: Juri Ganitkevitch
-    url: http://cs.jhu.edu/~juri/
-    tagline: Google.
-  -
-    name: Sharon Goldwater
-    url: http://homepages.inf.ed.ac.uk/sgwater/
-    tagline: University of Edinburgh.
-  -
-    name: Daniel Gildea
-    url: https://www.cs.rochester.edu/u/gildea/
-    tagline: University of Rochester.
-  -
-    name: Barry Haddow
-    url: http://homepages.inf.ed.ac.uk/bhaddow/
-    tagline: University of Edinburgh.
-  -
-    name: Hua He
-    tagline: University of Maryland.
-  -
-    name: Hieu Hoang
-    url: http://moses-smt.org/
-    tagline: Moses Machine Translation CIC.
-  -
-    name: Rebecca Hwa
-    url: http://people.cs.pitt.edu/~hwa/
-    tagline: University of Pittsburgh.
-  -
-    name: Herman Kamper
-    url: http://www.kamperh.com/
-    tagline: Stellenbosch University.
-  -
-    name: Sanjeev Khudanpur
-    url: http://old-site.clsp.jhu.edu/~sanjeev/
-    tagline: Johns Hopkins University.
-  -
-    name: Philipp Koehn
-    url: http://www.cs.jhu.edu/~phi/
-    tagline: Johns Hopkins University.
-  -
-    name: Gaurav Kumar
-    url: http://cs.jhu.edu/~gkumar/
-    tagline: Johns Hopkins University.
-  - 
-    name: Mirella Lapata
-    url: http://homepages.inf.ed.ac.uk/mlap/
-    tagline: University of Edinburgh.
-  -
-    name: Jimmy Lin
-    url: https://cs.uwaterloo.ca/~jimmylin/index.html
-    tagline: University of Waterloo.
-  - 
-    name: Karen Livescu
-    url: http://ttic.uchicago.edu/~klivescu/
-    tagline: Totyota Technical Institute Chicago.
-  -
-    name: Sebastian Maneth
-    url: http://user.informatik.uni-bremen.de/smaneth/
-    tagline: University of Bremen.
-  -
-    name: Nitin Madnani
-    url: http://desilinguist.org/
-    tagline: Educational Testing Service.
-  -
-    name: Christof Monz
-    url: http://staff.science.uva.nl/~christof/
-    tagline: University of Amsterdam.
-  -
-    name: Matt Post
-    url: http://www.cs.jhu.edu/~post/
-    tagline: Johns Hopkins University.
-  -
-    name: Philip Resnik
-    url: http://www.umiacs.umd.edu/%7Eresnik/
-    tagline: University of Maryland.
-  - 
-    name: Giorgio Satta
-    url: http://www.dei.unipd.it/~satta/
-    tagline: University of Padua.
-  -
-    name: Nathan Schneider
-    url: http://people.cs.georgetown.edu/nschneid/
-    tagline: Georgetown University.
-  -
-    name: Bonnie Webber
-    url: http://homepages.inf.ed.ac.uk/bonnie/
-    tagline: University of Edinburgh.
-  -
-    name: Jonathan Weese
-    url: http://cs.jhu.edu/~jonny/
-    tagline: Facebook.
-  - 
-    name: Dominikus Wetzel
-    tagline: University of Edinburgh.
+ 
