@@ -44,7 +44,6 @@ former-phd:
       Phd Thesis: Book Impact Assessment Based on Multi-source Heterogeneous Data.
   -
     name: Xiaolan Wu
-    url:  
     tagline: "PhD 2018, Now at Nanjing Normal University."
     description: >
       Phd Thesis: Finding Interdisciplinary Users on Social Media and its Application.
@@ -61,14 +60,12 @@ former-masters:
     tagline: MSc 2020, master Thesis:Automatic Identification of Cited Spans and Classification of Citation Type in Academic Articles.
   -
     name: Ruiyi Ding
-    url:  
     tagline: MSc 2020, master thesis： Mention Behavior and Influence Analysis of Algorithm Based on Full-text Content of Academic Articles.
   -
     name: Tiantian Tong
     tagline: MSc 2019, master thesis: Automatic Summarization of Book Review Based on Multi Source. 
   -
     name: Xuehua Chi
-    url:  
     tagline: Msc 2019, master thesis: Constructing Precise Profile of Scholars Automatically.
   - 
     name: Qiangbing Wang
@@ -78,9 +75,7 @@ former-masters:
     tagline: MSc 2018, master thesis：Interdisciplinary Topic Identification Based on Citation Relation and Citation Content.
   -
     name: Zijing Yue
-    url:  
-    tagline: MSc 2018, master thesis：Dietary Preferences Mining and its Application Based on User-generated Content.
- 
+    tagline: MSc 2018, master thesis：Dietary Preferences Mining and its Application Based on User-generated Content. 
 former-ug:
 
 former-visitors:
