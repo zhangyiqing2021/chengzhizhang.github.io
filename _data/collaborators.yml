@@ -1,59 +1,94 @@
 phd-students-first:
   -
-    name: Shuitan Ma
-    url: http://shutian.me/
-    tagline: Citaion recomendattion, Document clustering.
+    name: Seraphina Goldfarb-Tarrant
+    url: https://seraphinatarrant.github.io/
+    tagline: Bias in NLP models.
   -
-    name: Yingyi Zhang
-    url: https://www.researchgate.net/profile/Zhang_Yingyi2 
-    tagline: Keyphrase extraction, Entity extraction and relation discovery.
+    name: Andreas Grivas
+    url: http://grv.overfit.xyz/
+    tagline: MSc 2017. Structured prediction.
   - 
-    name: Chenglei Qin
-    tagline: Review mining.
+    name: Julie-Anne Meaney
+    tagline: Computational humour. Co-advised with Walid Magdy.
   -
-    name: Bowen Li
-    tagline: Methology in information science.
+    name: Kate McCurdy
+    url: http://www.inf.ed.ac.uk/people/students/Katherine_McCurdy.html
+    tagline: Morphology in neural models. Co-advised with Sharon Goldwater.
   - 
-    name: Heng Zhang
-    url: https://www.researchgate.net/profile/Heng_Zhang118 
-    tagline: Taxonomy generation, Software entity extraction.
+    name: Katarzyna Pruś
+    url: https://www.inf.ed.ac.uk/people/students/Katarzyna_Prus.html
+    tagline: Modeling grammatical aspect.
   -
-    name: Yuzhuo Wang
-    url: https://www.researchgate.net/profile/Yuzhuo_Wang7 
-    tagline: Knowledge entity extraction and evaluation.
-  -
-    name: Yi Zhao
-    url: https://www.researchgate.net/profile/Yi_Zhao162   
-    tagline: Scholar profiling.
-  -
-    name: Haixu Xi
-    tagline: Knowledge entity extraction and evaluation.
+    name: Naomi Saphra
+    url: http://nsaphra.github.io/ 
+    tagline: Learning dynamics of neural NLP models.
 project-students:
 former-phd:
   -
-    name: Chao Lu
-    url: https://luchao1991.github.io/
-    tagline: "PhD 2019. Now at  Hohai University."
+    name: Michael Auli
+    url: http://michaelauli.github.io/ 
+    tagline: PhD 2012. Now at Facebook AI Research.
     description: >
-      Phd Thesis: Identifying Content Features of Domain Emerging Topics and its Application.
- -
-    name: Qingqing Zhou
-    url: http://xinchuan.njnu.edu.cn/info/1020/1142.htm
-    tagline: "PhD 2018. Now at Nanjing Normal University."
-    description: >
-      Phd Thesis: Book impact assessment based on Multi-source heterogeneous data.
+      Michael's <a href="https://www.era.lib.ed.ac.uk/handle/1842/7636">thesis</a> 
+      applied advanced machine learning techniques to a
+      parser for combinatory categorial grammar, a linguistically expressive 
+      grammar formalism. It remained state-of-the-art for several years afer he
+      developed it. After graduation Michael began working on neural
+      translation, and is one of the key researchers behind Facebook's 
+      <a href="https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/">convolutional neural machine translation system</a>. 
   -
-    name: Xiaolan Wu
-    url:  
-    tagline: "PhD 2018, Now at Nanjing Normal University."
+    name: Federico Fancellu
+    url: https://ffancellu.github.io/
+    tagline: "PhD 2018, co-advised with Bonnie Webber. Now at Samsung AI Center."
     description: >
-      Phd Thesis: Finding Interdisciplinary Users on Social Media and its Application.
+      Federico's <a href="https://www.era.lib.ed.ac.uk/handle/1842/33038">thesis</a> 
+      developed state-of-the-art models for computational detection
+      of negation in English and Chinese. During his postdoc with Mirella
+      Lapata, he collaborated with Sorcha Gilroy on semantic parsing.
   -
-    name: Lei Li
-    url: https://www.researchgate.net/profile/Lei_Li68
-    tagline: "PhD 2018. Now at Beijing Normal University."
+    name: Sorcha Gilroy
+    url: https://uk.linkedin.com/in/sorcha-gilroy-a6105693
+    tagline: "PhD 2019. Now at peak.ai."
     description: >
-      Phd Thesis: Research on Answer Quality Judgement on Academic Social Q&A Sites.
+      Sorcha's <a href="https://www.era.lib.ed.ac.uk/handle/1842/35606">thesis</a>
+      surveys a range of mathematical tools for probabilistic generative
+      models of graphs, and presents several new results. Among her many
+      accomplishments as a PhD student, she won an outstanding paper award
+      at NAACL 2018.
+  -
+    name: Nikolay Bogoychev
+    url: https://nbogoychev.com/
+    tagline: "PhD 2019. Now postdoc at the University of Edinburgh."
+    description: >
+      Nikolay's <a href="https://www.era.lib.ed.ac.uk/handle/1842/35886">thesis</a> shows how careful thinking about memory accesses 
+      yields simple and very fast algorithms for machine translation on
+      parallel hardware. He is continuing this work as a postdoc in
+      the machine translation group at Edinburgh.
+  -
+    name: Clara Vania
+    url: https://claravania.github.io/
+    tagline: PhD 2020. Now postdoc at New York University.
+    description: >
+      Clara's <a href="https://era.ed.ac.uk/handle/1842/36742">thesis</a> teases apart the interaction between morphology, typology,
+      and character-level neural models, showing where the latter successfully
+      mimic the mapping from form to function, and cases where they don't.
+  - 
+    name: Arabella Jane Sinclair
+    url: https://staff.fnwi.uva.nl/a.j.sinclair/
+    tagline: PhD 2020, co-advised with Dragan Gašević and Chris Lucas.  Now postdoc at University of Amsterdam.
+    description: >
+      Arabella's <a href="https://era.ed.ac.uk/handle/1842/37009">thesis</a> shows that when learning a second language through
+      conversation, students and their tutors adapt to each other across
+      many different dimensions, and that the nature of this adaptation
+      depends on the student's ability in the language.
+  - 
+    name: Sameer Bansal
+    url: http://0xsameer.github.io
+    tagline: PhD 2020, co-advised with Sharon Goldwater and Herman Kamper. Now researcher at Bloomberg.
+    description: >
+      Sameer's <a href="https://era.ed.ac.uk/handle/1842/36781">thesis</a> pushes the limits of what kind of system it is possible to
+      build if you only  have a few hours of speech paired with translations, with
+      potential applications in language documentation and crisis response.
 former-masters:
   - 
     name: Despoina Christou
