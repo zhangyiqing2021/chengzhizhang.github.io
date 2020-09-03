@@ -3,24 +3,12 @@ layout: page
 title: About me
 cover: false
 ---
-I am a professor at [NJUST](http://english.njust.edu.cn/), which is building
-the standard infrastructure for conversational AI.
-My [research](papers) interests are broad, and I have worked on many engineering, scientific,
-and mathematical problems in natural language processing. 
+I am a professor at ischool of [NJUST](http://english.njust.edu.cn/).
+My [research](papers) interests include information retrieval, information organization, text mining and nature language processing. 
 
-I am also a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) (on leave)
-in the [Institute for Language, Cognition, and Computation](http://web.inf.ed.ac.uk/ilcc)
-in the [School of Informatics](http://web.inf.ed.ac.uk/)
-at the [University of Edinburgh](https://www.ed.ac.uk/), where I 
-continue to advise [several PhD students](collaborators) in the
-[Edinburgh natural language processing group](http://groups.inf.ed.ac.uk/edinburghnlp/).
-I am not accepting new students.
+I am also a visiting scholar in the [School of Information Sciences (iSchool)](http://ischool.pitt.edu/) at the [University of Pittsburgh](http://www.pitt.edu/) and in the [Department of Linguistics and Translation ](lt.cityu.edu.hk/) at the [City University of Hong Kong](https://www.cityu.edu.hk/) 
 
-I previously developed and taught [advanced courses in natural language processing](teaching)
-at Edinburgh and at Johns Hopkins University. I also developed and taught
-much of the training program for the [UKRI Centre for Doctoral Training in Natural Language Processing](https://nlp-cdt.ac.uk/) 
-in its first year. 
-
+ 
 ## Recent News
 * In July 2020, I joined the research team at [Rasa](https://rasa.com)! I'm [leading a new research and product hub in Edinburgh](https://www.prnewswire.com/news-releases/rasa-raises-26m-in-series-b-funding-led-by-andreessen-horowitz-301081571.html).
   
