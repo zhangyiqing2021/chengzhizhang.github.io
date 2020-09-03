@@ -3,7 +3,7 @@ layout: page
 title: About me
 cover: false
 ---
-I am a professor at [NJUST](https://en.njust.edu.cn), which is building
+I am a professor at [NJUST](http://english.njust.edu.cn/), which is building
 the standard infrastructure for conversational AI.
 My [research](papers) interests are broad, and I have worked on many engineering, scientific,
 and mathematical problems in natural language processing. 
