@@ -2,32 +2,32 @@ phd-students-first:
   -
     name: Shuitan Ma
     url: http://shutian.me/
-    tagline: Citaion recomendattion, Document clustering
+    tagline: Citaion recomendattion, Document clustering.
   -
     name: Yingyi Zhang
     url: https://www.researchgate.net/profile/Zhang_Yingyi2 
-    tagline: Keyphrase extraction, Entity extraction and relation discovery
+    tagline: Keyphrase extraction, Entity extraction and relation discovery.
   - 
     name: Chenglei Qin
-    tagline: Review mining
+    tagline: Review mining.
   -
     name: Bowen Li
-    tagline: Methology in information science
+    tagline: Methology in information science.
   - 
     name: Heng Zhang
     url: https://www.researchgate.net/profile/Heng_Zhang118 
-    tagline: Taxonomy generation, Software entity extraction
+    tagline: Taxonomy generation, Software entity extraction.
   -
     name: Yuzhuo Wang
     url: https://www.researchgate.net/profile/Yuzhuo_Wang7 
-    tagline: Knowledge entity extraction and evaluation
+    tagline: Knowledge entity extraction and evaluation.
    -
     name: Yi Zhao
     url: https://www.researchgate.net/profile/Yi_Zhao162   
-    tagline: Scholar profiling
+    tagline: Scholar profiling.
    -
     name: Haixu Xi
-    tagline: Knowledge entity extraction and evaluation
+    tagline: Knowledge entity extraction and evaluation.
 
 project-students:
 former-phd:
