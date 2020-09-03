@@ -1,28 +1,33 @@
 phd-students-first:
   -
-    name: Seraphina Goldfarb-Tarrant
-    url: https://seraphinatarrant.github.io/
-    tagline: Bias in NLP models.
+    name: Shuitan Ma
+    url: http://shutian.me/
+    tagline: Citaion recomendattion, Document clustering.
   -
-    name: Andreas Grivas
-    url: http://grv.overfit.xyz/
-    tagline: MSc 2017. Structured prediction.
+    name: Yingyi Zhang
+    url: https://www.researchgate.net/profile/Zhang_Yingyi2 
+    tagline: Keyphrase extraction, Entity extraction and relation discovery.
   - 
-    name: Julie-Anne Meaney
-    tagline: Computational humour. Co-advised with Walid Magdy.
+    name: Chenglei Qin
+    tagline: Review mining.
   -
-    name: Kate McCurdy
-    url: http://www.inf.ed.ac.uk/people/students/Katherine_McCurdy.html
-    tagline: Morphology in neural models. Co-advised with Sharon Goldwater.
+    name: Bowen Li
+    tagline: Methology in information science.
   - 
-    name: Katarzyna Pruś
-    url: https://www.inf.ed.ac.uk/people/students/Katarzyna_Prus.html
-    tagline: Modeling grammatical aspect.
+    name: Heng Zhang
+    url: https://www.researchgate.net/profile/Heng_Zhang118 
+    tagline: Taxonomy generation, Software entity extraction.
   -
-    name: Naomi Saphra
-    url: http://nsaphra.github.io/ 
-    tagline: Learning dynamics of neural NLP models.
-    
+    name: Yuzhuo Wang
+    url: https://www.researchgate.net/profile/Yuzhuo_Wang7 
+    tagline: Knowledge entity extraction and evaluation.
+  -
+    name: Yi Zhao
+    url: https://www.researchgate.net/profile/Yi_Zhao162   
+    tagline: Scholar profiling.
+  -
+    name: Haixu Xi
+    tagline: Knowledge entity extraction and evaluation.
 project-students:
 former-phd:
   -
@@ -30,32 +35,26 @@ former-phd:
     url: https://luchao1991.github.io/
     tagline: "PhD 2019. Now at  Hohai University."
     description: >
-      Phd Thesis: Identifying Content Features of Domain Emerging Topics and its Application
+      Phd Thesis: Identifying Content Features of Domain Emerging Topics and its Application.
  -
     name: Qingqing Zhou
     url: http://xinchuan.njnu.edu.cn/info/1020/1142.htm
     tagline: "PhD 2018. Now at Nanjing Normal University."
     description: >
-      Phd Thesis: Book impact assessment based on Multi-source heterogeneous data
+      Phd Thesis: Book impact assessment based on Multi-source heterogeneous data.
   -
     name: Xiaolan Wu
     url:  
     tagline: "PhD 2018, Now at Nanjing Normal University."
     description: >
-      Phd Thesis: Finding Interdisciplinary Users on Social Media and its Application
+      Phd Thesis: Finding Interdisciplinary Users on Social Media and its Application.
   -
     name: Lei Li
     url: https://www.researchgate.net/profile/Lei_Li68
     tagline: "PhD 2018. Now at Beijing Normal University."
     description: >
-      Phd Thesis: Research on Answer Quality Judgement on Academic Social Q&A Sites
- 
+      Phd Thesis: Research on Answer Quality Judgement on Academic Social Q&A Sites.
 former-masters:
-  - 
-    name: Despoina Christou
-    url: https://www.linkedin.com/in/despoinachristou
-    tagline: MSc 2016. Now PhD student at Aristotle University of Thessaloniki.
-  -
   - 
     name: Despoina Christou
     url: https://www.linkedin.com/in/despoinachristou
