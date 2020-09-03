@@ -1,15 +1,11 @@
 ---
 layout: page
-title:  Research students
+title:  Students
 cover:  false
 menu:   true
 order:  3
 ---
 
-> _Much have I learned from my teachers, more from my colleagues, but most 
-> from my students._
->
-> ---Talmud
 
 ## Students
 ### PhD advisees
