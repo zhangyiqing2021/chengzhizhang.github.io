@@ -21,6 +21,15 @@ phd-students-first:
     name: Yuzhuo Wang
     url: https://www.researchgate.net/profile/Yuzhuo_Wang7 
     tagline: Knowledge entity extraction and evaluation
+   -
+    name: Yi Zhao
+    url:   
+    tagline: Scholar profiling
+   -
+    name: Haixu Xi
+    url:   
+    tagline: Knowledge entity extraction and evaluation
+        
     
 project-students:
 former-phd:
