@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Publications
+title:  Papers
 cover:  false
 menu:   true
 order:  1
