@@ -33,34 +33,34 @@ former-phd:
   -
     name: Chao Lu
     url: https://luchao1991.github.io/
-    tagline: "PhD 2019. Now at  Hohai University."
+    tagline: "PhD 2019. Now Assistant Professor at  Hohai University."
     description: >
       Phd Thesis: Identifying Content Features of Domain Emerging Topics and its Application.
   -
     name: Qingqing Zhou
     url: http://xinchuan.njnu.edu.cn/info/1020/1142.htm
-    tagline: "PhD 2018. Now at Nanjing Normal University."
+    tagline: "PhD 2018. Now Assistant Professor at Nanjing Normal University."
     description: >
       Phd Thesis: Book Impact Assessment Based on Multi-source Heterogeneous Data.
   -
     name: Xiaolan Wu
-    tagline: "PhD 2018, Now at Nanjing Normal University."
+    tagline: "PhD 2018, Now Assistant Professor at Nanjing Normal University."
     description: >
       Phd Thesis: Finding Interdisciplinary Users on Social Media and its Application.
   -
     name: Lei Li
     url: https://www.researchgate.net/profile/Lei_Li68
-    tagline: "PhD 2018. Now at Beijing Normal University."
+    tagline: "PhD 2018. Now Assistant Professor at Beijing Normal University."
     description: >
       Phd Thesis: Research on Answer Quality Judgement on Academic Social Q&A Sites.
 former-masters:
   - 
     name: Jin Xu
     url: https://www.researchgate.net/profile/Jin_Xu86
-    tagline: MSc 2020, master Thesis:Automatic Identification of Cited Spans and Classification of Citation Type in Academic Articles.
+    tagline: MSc 2020, master Thesis: Automatic Identification of Cited Spans and Classification of Citation Type in Academic Articles.
   -
     name: Ruiyi Ding
-    tagline: MSc 2020, master thesis： Mention Behavior and Influence Analysis of Algorithm Based on Full-text Content of Academic Articles.
+    tagline: MSc 2020, master thesis：Mention Behavior and Influence Analysis of Algorithm Based on Full-text Content of Academic Articles.
   -
     name: Tiantian Tong
     tagline: MSc 2019, master thesis: Automatic Summarization of Book Review Based on Multi Source. 
@@ -76,8 +76,25 @@ former-masters:
   -
     name: Zijing Yue
     tagline: MSc 2018, master thesis：Dietary Preferences Mining and its Application Based on User-generated Content. 
+  -
+    name: Xiaoyong Zhang
+    tagline: MSc 2017, master thesis：Automatic Construction and Application of Concept Taxonomy Based on Multi-Source Heterogeneous Data. 
+  -
+    name: Hua Zhao
+    tagline: MSc 2017, master thesis：Research on the Knowledge Organization Pattern based on Users in Social Network.
+  -
+    name: Jian Shao， master thesis: Hashtag Generation and Its Application Based on Multilingual Microblog.
+    tagline: MSc 2016
+  -
+    name: Xiaoxue Gu
+    tagline: MSc 2015, master thesis: Research on Multilingual Tags Clustering and Visualization. 
+  -
+    name: Lijuan Tang
+    tagline: MSc 2013, master thesis: Multilingual Tags Clustering and Its Application. 
+  -
+    name: Sha Liu
+    tagline: MSc 2012, master thesis: Building and Evaluating Special Domain Comparable Corpus. 
 former-ug:
-
 former-visitors:
 
 collaborators:
