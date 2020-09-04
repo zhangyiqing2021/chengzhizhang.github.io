@@ -5,7 +5,7 @@ cover:  false
 menu:   true
 order:  1
 ---
-##2020
+## 2020
 * Chengzhi Zhang, Qinqqing Zhou. Assessing Books' Depth and Breadth via Multi-level Mining on Tables of Contents. Journal of Informetrics, 2020, 14(2): 101032. https://doi.org/10.1016/j.joi.2020.101032
 * Yingyi Zhang, Chengzhi Zhang*, Jing Li. Joint Modeling of Characters, Words, and Conversation Contexts for Microblog Keyphrase Extraction. Journal of the Association for Information Science and Technology, 2020, 71(5):553-567.  https://onlinelibrary.wiley.com/doi/full/10.1002/asi.24279
 * Yuzhuo Wang, Chengzhi Zhang*. Using the Full-text Content of Academic Articles to Identify and Evaluate Algorithm Entities in the Domain of Natural Language Processing . Journal of Informetrics, 2020.  (in press)
