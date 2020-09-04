@@ -56,7 +56,75 @@ order:  1
 * Heng Zhang, Qingqing Zhou, Chengzhi Zhang*. Multi-discipline Correlation Analysis between Citations and Features of Library Holdings. In: Proceedings of 2018 Annual Meeting of the Association for Information Science and Technology (ASIST’2018), Vancouver, BC, Canada, 2018.
 * Shutian Ma, Chengzhi Zhang*. Using Full-text Academic Articles and Wikipedia to Find Alternative Free Bioinformatics Software. In: Proceedings of 2018 ASIST Workshop on Informetrics and Scientometrics Research (SIGMET2018), Vancouver, BC, Canada, 2018. [[PDF]](https://www.asist.org/SIG/SIGMET/wp-content/uploads/2018/11/Poster-File-Using-Full-text-Academic-Articles-and-Wikipedia-to-Find-AlternativeFree-Bioinformatics-Software.pdf)[[Slides]](https://www.asist.org/SIG/SIGMET/wp-content/uploads/2018/11/Slide-Full-text-Academic-Articles-and-Wikipedia-to-Find-Alternative-Free-Bioinformatics-Software.pdf)
 * Tiantian Tong, Chengzhi Zhang*, Lin Zhang. Using WoS Keywords to Analyze Topic of Articles Collection with Different Interdisciplinary Degree. In: Proceedings of 2018 ASIST Workshop on Informetrics and Scientometrics Research (SIGMET2018), Vancouver, BC, Canada, 2018. [[PDF]](https://www.asist.org/SIG/SIGMET/wp-content/uploads/2018/11/Poster-File-Using-WoS-Keywords-to-Analyze-Topic-of-Articles-Collection-with-Different-Interdisciplinary-Degree.pdf) [[Slides]](https://www.asist.org/SIG/SIGMET/wp-content/uploads/2018/11/Slide-Using-WoS-Keywords-to-Analyze-Topic-of-Articles-Collection-with-Different-Interdisciplinary-Degree-.pdf)
-* Yingyi zhang, Jing Li, Yan Song, Chengzhi Zhang. Encoding Conversation Context for Neural Keyphrase Extraction from Microblog Posts. In: Proceedings of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL HLT 2018), New Orleans, USA,  1st-6th June, 2018. [[PDF]](https://ai.tencent.com/ailab/media/publications/naacl2018/Encoding_Conversation_Context_for_Neural_Keyphrase_Extraction_from_Microblog_Posts.pdf) [Dataset](https://ai.tencent.com/upload//PapersUploads/naacl2018-keyphrase-datasets.zip)
+* Yingyi zhang, Jing Li, Yan Song, Chengzhi Zhang. Encoding Conversation Context for Neural Keyphrase Extraction from Microblog Posts. In: Proceedings of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL HLT 2018), New Orleans, USA,  1st-6th June, 2018. [[PDF]](https://ai.tencent.com/ailab/media/publications/naacl2018/Encoding_Conversation_Context_for_Neural_Keyphrase_Extraction_from_Microblog_Posts.pdf) [[Dataset]](https://ai.tencent.com/upload//PapersUploads/naacl2018-keyphrase-datasets.zip)
 * Yuzhuo Wang, Chengzhi Zhang*. Using Full-text of Research Articles to Analyze Academic Impact of Algorithms. In: Proceedings of iConference2018, Sheffield, UK, 25th-28th March, 2018. [[PDF]](https://www.researchgate.net/profile/Chengzhi_Zhang4/publication/323754772_Using_Full-Text_of_Research_Articles_to_Analyze_Academic_Impact_of_Algorithms/links/5c1c5f7292851c22a33af443/Using-Full-Text-of-Research-Articles-to-Analyze-Academic-Impact-of-Algorithms.pdf)
 * Yingyi Zhang, Chao Lu, Chengzhi Zhang*. The Impact of Byline Order of Corresponding Author -A Preliminary Study. In: Proceedings of iConference2018, Sheffield, UK, 25th-28th March, 2018.
 * Chao Lu, Ying Ding, Yingyi Zhang, Yi Bu, Chengzhi Zhang*. Types of Scientific Collaborators: A Perspective of Author Contribution Network. In: Proceedings of iConference2018, Sheffield, UK, 25th-28th March, 2018.
+
+## 2017
+* Xinning Su, Chengzhi Zhang, Daqing He. Guest editorial: managing bigger online data. The Electronic Library. 2017, 35(4): 622-625.  https://doi.org/10.1108/EL-08-2017-0187
+* Chao Lu, Ying Ding, Chengzhi Zhang*. Understanding the impact change of a highly cited article: a content-based citation analysis. Scientometrics. 2017, 112(2): 927-945.  https://doi.org/10.1007/s11192-017-2398-7
+* Qingqing Zhou, Chengzhi Zhang*. Emotion evolutions of sub-topics about popular events on microblogs. The Electronic Library. 2017, 35(4): 770-782. https://doi.org/10.1108/EL-09-2016-0184
+* Qiangbing Wang, Shutian Ma, Chengzhi Zhang*. Predicting Users' Demographic Characteristics in a Chinese Social Media Network. The Electronic Library. 2017, 35(4): 758-769. https://doi.org/10.1108/EL-09-2016-0203
+* Jie Wang, Shutian Ma, Chengzhi Zhang*. CitationAS: A Summary Generation Tool Based on Clustering of Retrieved Citation Content. In: Proceedings of Second Workshop on Mining Scientific Papers: Computational Linguistics and Bibliometrics (CLBib-2017), Wuhan, China, 2017.
+* Shutian Ma, Jin Xu, Jie Wang and Chengzhi Zhang*. NJUST @ CLSciSumm-17. In: Proceedings of the 2nd Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL 2017), Tokyo, Japan, Aug, 2017. (Winner of CL-SciSumm 2017 ) [[PDF]](http://ceur-ws.org/Vol-2002/njustclscisumm2017.pdf)
+* Qingqing Zhou, Chengzhi Zhang*. Detecting dietary preference of social media users in China via sentiment analysis. In: Proceedings of 2017 Annual Meeting of the Association for Information Science and Technology (ASIST’2017), Washington, DC, USA, 2017.
+* Shutian Ma, Chengzhi Zhang*. Document Representation and Clustering Models for Bilingual Documents Clustering. In: Proceedings of 2017 Annual Meeting of the Association for Information Science and Technology (ASIST’2017), Washington, DC, USA, 2017.
+* Chao Lu, Yi Bu, Chenwei Zhang, Ying Ding, Torvik VI, Chengzhi Zhang*. Does Collaboration Bring High-impact Studies? A Preliminary Study. In: Proceedings of 2017 Annual Meeting of the Association for Information Science and Technology (ASIST’2017), Washington, DC, USA, 2017.
+* Chengzhi Zhang*, Shurui Xu. Using Readership to Measure Interdisciplinarity. In: Proceedings of the 16th International Conference on Scientometrics and Informetrics (ISSI 2017), Wuhan, China, 2017.
+* Qingqing Zhou, Shenghui Wang, Chengzhi Zhang*. Alternative Metrics Correlations: Do Academic Reviews Correlate with Library Holdings? In: Proceedings of the 16th International Conference on Scientometrics and Informetrics (ISSI 2017), Wuhan, China, 2017.
+* Yuzhuo Wang, Chengzhi Zhang*. A Comparative Investigation of Citation Content Characteristics between Academic Monographs and Papers. In: Proceedings of the 16th International Conference on Scientometrics and Informetrics (ISSI 2017), Wuhan, China, 2017.
+* Shutian Ma, Chengzhi Zhang*. Using Full-text to Evaluate Impact of Different Software Groups    information. In: Proceedings of the 16th International Conference on Scientometrics and Informetrics (ISSI 2017), Wuhan, China, 2017.
+* Yingyi Zhang, Chao Lu, Chengzhi Zhang*. Always Gold Glitters: When Accepted Papers Meet Processing Delay information. In: Proceedings of the 16th International Conference on Scientometrics and Informetrics (ISSI 2017), Wuhan, China, 2017.
+* Chao Lu, Yi Bu, Xianlei Dong, Jie Wang, Ying Ding，Chengzhi Zhang*. To Be or Not to Be: Will Scientific Writing Affect Scientific Impact? In: Proceedings of the 16th International Conference on Scientometrics and Informetrics (ISSI 2017), Wuhan, China, 2017.
+* Lei Li, Daqing He, Danchen Zhang, Yu Chi, Chengzhi Zhang*. The Types of Tags for Annotating Academic Blogs. In: Proceedings of iConference2017, Wuhan, China, March 22-25, 2017.
+* Chao Lu, Yi Bu, Ying Ding, Chengzhi Zhang*. Understanding Academic Writing Style from the Perspective of Linguistic Closeness of the Speaker’s Native Language to English. In: Proceedings of iConference2017, Wuhan, China,  March 22-25, 2017.
+* Shutian Ma, Chengzhi Zhang*. Documents Representation for Comparable Corpora Clustering: A Preliminary Study. In: Proceedings of iConference2017, March 22-25, Wuhan, China, 2017.
+* Yingyi Zhang, Guo Chen, Chengzhi Zhang*, Shutian Ma. Analyzing scientific user tagging behavior on academic blogs according to tag’s content characteristics - a preliminary study. In: Proceedings of iConference2017, Wuhan, China,  March 22-25, 2017.
+
+## 2016
+
+*  Qingqing Zhou, Rui Xia, Chengzhi Zhang*. Online shopping behavior study based on multi-granularity opinion mining: China vs. America. Cognitive Computation. 2016, 8(4): 587-602.  https://doi.org/10.1007/s12559-016-9384-x
+* Qingqing Zhou, Chengzhi Zhang*, Star X. Zhao, Bikun Chen. Measuring Book Impact Based on the Multi-granularity Online Review Mining. Scientometrics. 2016, 107(3): 1435-1455. https://doi.org/10.1007/s11192-016-1930-5
+* Chao Lu, Chengzhi Zhang*, Daqing He. Comparative analysis of book tags: a cross-lingual perspective. The Electronic Library. 2016, 34(4):666-682.  https://doi.org/10.1108/EL-03-2015-0042  (Highly Commended Paper in the 2017 Emerald Literati Network Awards for Excellence)
+* Lu Xiao, Guo Chen, Jianjun Sun, Shuguang Han, Chengzhi Zhang. Exploring the topic hierarchy of digital library research in China using keyword networks: a K-core decomposition approach. Scientometrics, 2016, 108(3): 1085–1101.
+* Shutian Ma, Xiaoyong Zhang, Chengzhi Zhang*. NLPCC 2016 Shared Task: Chinese Words Similarity Measure via Ensemble Learning based on Multiple Resources. In: Proceedings of the Fifth Conference on Natural Language Processing and Chinese Computing & The Twenty Fourth International Conference on Computer Processing of Oriental Languages (NLPCC-ICCPOL 2016). Kunming, China, 2016: 862–869.
+* Shutian Ma, Chengzhi Zhang*, Daqing He. Document Representation Methods for Clustering Bilingual Documents. In: Proceedings of the 2016 Annual Meeting of the Association for Information Science and Technology (ASIST’2016), Copenhagen, Denmark, 2016.
+* Lei Li and Chengzhi Zhang*. Characterizing Users Tagging Behavior in Academic Blogs. In: Proceedings of ACM/IEEE Joint Conference on Digital Libraries 2016 (JCDL2016). Newark, NJ, 2016.
+* Lei Li, Daqing He, Chengzhi Zhang. Measurement of academic answer quality :a Case Study on ResearchGate Q&A. In: Proceedings of  HCI International 2016, Toronto, Canada.
+* Lei Li, Ke Zhang, Qingqing Zhou, Chengzhi Zhang*. Toward Understanding Review Usefulness: A Case Study on Yelp Restaurants.In: Proceedings of iConferrence2016, March 20-23, Philadelphia, PA, 2016.
+
+
+## 2015
+* Chao Lu, Shutian Ma, Chengzhi Zhang*. How Does Citing Behavior for a Scientific Article Change over Time? A Preliminary Study. In: Proceedings of the 2015 Annual Meeting of the Association for Information Science and Technology (ASIST’2015), St. Louis, Missouri, USA, 2015.
+* Qingqing Zhou, Chengzhi Zhang*. Can Book Reviews Be Used to Evaluate Books’ Influence? In: Proceedings of the 15th International Conference on Scientometrics and Informetrics (ISSI2015). Istanbul, Turkey,  2015 : 105-106.
+* Xiaolan Wu, Chengzhi Zhang*. Multi-Label Propagation for Overlapping Community Detection Based on Connecting Degree. In: Proceedings of the 15th International Conference on Scientometrics and Informetrics (ISSI2015). Istanbul, Turkey, 2015: 1099-1100.
+* Jinzhu Zhang, Chengzhi Zhang, Bikun Chen. Uncovering the Mechanisms of Co-authorship Network Evolution by Multirelations-based Link Prediction. In: Proceedings of the 15th International Conference on Scientometrics and Informetrics (ISSI2015). Istanbul, Turkey, 2015: 1105-1106.
+* Lei Li, Daqing He, Wei Jeng, Spencer Goodwin, Chengzhi Zhang. Answer Quality Characteristics and Prediction on an Academic Q&A Site: A Case Study on ResearchGate. In: Proceedings of the 22nd international conference on World Wide Web companion (WebQuality2015). Florence, Italy, 18 May, 2015,.
+
+
+## 2014
+
+* Qingqing Zhou, Chengzhi Zhang*. Relationship between Reviews Polarities, Helpfulness, Stars and Sales Rankings of Products: A Case Study in Books. In: Proceedings of the 3rd National Conference of Social Media Processing (SMP2014), Beijing, China, 2014: 175-186.
+* Shutian Ma, Chengzhi Zhang*. Automatic Collection of the Parallel Corpus with Little Prior Knowledge.In: Proceedings of the 13th China National Conference on Computational Linguistics (CCL2014), Wuhan, China, 2014: 95-106.
+* Lei Li, Chengzhi Zhang. Quality Evaluation of Social Tags according to Web Resource Types. In: Proceedings of the 22nd international conference on World Wide Web companion (WebQuality2014). Seoul, Korea, 7 April, 2014.
+
+## 2013
+
+* Qingqing Zhou & Chengzhi Zhang*.Relationship between scores and tags for Chinese books—In the case of Douban Book. Chinese Journal of Library and Information Science, 2013,6(4): 40-54.
+* Chengzhi Zhang, Xuchen Yao and Chunyu Kit.Finding More Bilingual Web Pages with High Credibility via Link Analysis. In: Proceedings of the 6th Workshop on Building and Using Comparable Corpora (BUCC2013). 8 August 2013, Sofia, Bulgaria.
+* Sa Liu, Chengzhi Zhang. Termhood-Based Comparability Metrics of Comparable Corpus in Special Domain. In: Proceedings of The 14th Chinese Lexical Semantics Workshop (CLSW2012), LNAI,Volume 7717/2013, Springer, 2013: 134–144.
+    
+## 2012 and Before
+
+* Chengzhi Zhang, Dan Wu. Bilingual Terminology Extraction Using Multi-level Termhood. The Electronic Library. 2012, 30(2): 295-308.
+* Chengzhi Zhang, Wang Huilin, Wu Dan. Clustering Description Learning: A Comparative Study. Journal of Information and Computation Science, 2009, 6(3): 1181-1192.
+* Chengzhi Zhang,Wang Huilin, Yao Liu, Wu Dan, Wang Bo, Liao Yi. Automatic Keyword Extraction from Documents Using Conditional Random Fields. Journal of Computational Information Systems, 2008, 4(3): 1169-1180.
+* Chengzhi Zhang. Bilingual Topic Taxonomy Generation Based on Bilingual Document Clustering. In: Proceedings of 2011 International Conference on Machine Learning and Cybernetics (The Second International Workshop on Web Information Processing), Guilin, Guangxi, China. 2011: 1889-1895.
+* Chengzhi Zhang. Extracting Chinese-English Bilingual Core Terminology from Parallel Classified Corpora in Special Domain. In: Proceedings of Workshop on Natural Language Processing and Ontology Engineering (NLPOE 2009) in conjunction with Conference on Web Intelligence (WI/IAT-09). Milan, Italy, 2009: 271-274.
+* Chengzhi Zhang, Huilin Wang, Yao Liu. Document Clustering Deion Extraction and Its Application. In: Proceedings of the 22nd International Conference on the Computer Processing of Oriental Languages (ICCPOL2009). Lecture Notes in Computer Science, 5459/2009. Springer Berlin / Heidelberg, Hong Kong, China, 2006: 370-377.
+* Chengzhi Zhang, Xiaoqing Xu, Xinning Su. Query Similarity Computing Based on System Similarity Measurement. In: Proceedings of the 21st International Conference on the Computer Processing of Oriental Languages (ICCPOL2006), Lecture Notes in Computer Science, Volume 4285/2006, Springer Berlin / Heidelberg, Singapore, 2006: 42-50.
+
+
+
+
