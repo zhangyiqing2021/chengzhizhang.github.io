@@ -12,7 +12,7 @@ order:  1
 * Yingyi Zhang, Chengzhi Zhang\*, Jing Li. Joint Modeling of Characters, Words, and Conversation Contexts for Microblog Keyphrase Extraction. ***Journal of the Association for Information Science and Technology***, 2020, 71(5):553-567. [[doi]](https://onlinelibrary.wiley.com/doi/full/10.1002/asi.24279)
 * Yuzhuo Wang, Chengzhi Zhang\*. Using the Full-text Content of Academic Articles to Identify and Evaluate Algorithm Entities in the Domain of Natural Language Processing . ***Journal of Informetrics***, 2020.  (in press)
 * Lei Li, Chengzhi Zhang\*, Daqing He, Jia Tina Du. Researchers’ Judgment Criteria of High-quality Answers on Academic Social Q&A Platforms. ***Online Information Review***. 2020, 44(3): 603-623. [[doi]](https://doi.org/10.1108/OIR-05-2019-0186)
-* Lei Li, Chengzhi Zhang*, Daqing He. Factors influencing the importance of criteria for judging answer quality on academic social Q&A platforms.  ***Aslib Journal of Information Management***, 2020. (in press)
+* Lei Li, Chengzhi Zhang\*, Daqing He. Factors influencing the importance of criteria for judging answer quality on academic social Q&A platforms.  ***Aslib Journal of Information Management***, 2020. (in press)
 * Shutian Ma, Chengzhi Zhang\*, Xiaozhong Liu. A Review of Citation Recommendation: From Textual Content to Enriched Context. ***Scientometrics***, 2020, 122(3): 1445-1472. [[doi]](https://doi.org/10.1007/s11192-019-03336-0)
 * Qingqing Zhou, Chengzhi Zhang\*. Evaluating wider impacts of books via fine-grained mining on citation literatures. ***Scientometrics***, 2020. (in press). [[doi]](https://doi.org/10.1007/s11192-020-03676-2)
 * Qingqing Zhou, Chengzhi Zhang\*. Measuring book impact via content-level academic review mining. ***The Electronic Library***, 2020, 38(1): 138-154.[[doi]]( https://doi.org/10.1108/EL-08-2019-0184)
@@ -67,7 +67,7 @@ order:  1
 * Xinning Su, Chengzhi Zhang, Daqing He. Guest editorial: managing bigger online data. ***The Electronic Library***. 2017, 35(4): 622-625. [[doi]](https://doi.org/10.1108/EL-08-2017-0187)
 * Chao Lu, Ying Ding, Chengzhi Zhang\*. Understanding the impact change of a highly cited article: a content-based citation analysis. ***Scientometrics***. 2017, 112(2): 927-945.  [[doi]](https://doi.org/10.1007/s11192-017-2398-7)
 * Qingqing Zhou, Chengzhi Zhang\*. Emotion evolutions of sub-topics about popular events on microblogs. ***The Electronic Library***. 2017, 35(4): 770-782.[[doi]](https://doi.org/10.1108/EL-09-2016-0184)
-* Qiangbing Wang, Shutian Ma, Chengzhi Zhang*. Predicting Users' Demographic Characteristics in a Chinese Social Media Network. ***The Electronic Library***. 2017, 35(4): 758-769. https://doi.org/10.1108/EL-09-2016-0203
+* Qiangbing Wang, Shutian Ma, Chengzhi Zhang\*. Predicting Users' Demographic Characteristics in a Chinese Social Media Network. ***The Electronic Library***. 2017, 35(4): 758-769. https://doi.org/10.1108/EL-09-2016-0203
 * Jie Wang, Shutian Ma, Chengzhi Zhang\*. CitationAS: A Summary Generation Tool Based on Clustering of Retrieved Citation Content. In: ***Proceedings of Second Workshop on Mining Scientific Papers: Computational Linguistics and Bibliometrics (CLBib-2017)***, Wuhan, China, 2017.
 * Shutian Ma, Jin Xu, Jie Wang and Chengzhi Zhang\*. NJUST @ CLSciSumm-17. In: ***Proceedings of the 2nd Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL 2017)***, Tokyo, Japan, Aug, 2017. (***Winner of CL-SciSumm 2017***) [[PDF]](http://ceur-ws.org/Vol-2002/njustclscisumm2017.pdf)
 * Qingqing Zhou, Chengzhi Zhang\*. Detecting dietary preference of social media users in China via sentiment analysis. In: ***Proceedings of 2017 Annual Meeting of the Association for Information Science and Technology (ASIST’2017)***, Washington, DC, USA, 2017.
@@ -88,13 +88,13 @@ order:  1
 
 *  Qingqing Zhou, Rui Xia, Chengzhi Zhang\*. Online shopping behavior study based on multi-granularity opinion mining: China vs. America. ***Cognitive Computation***. 2016, 8(4): 587-602.  [[doi]](https://doi.org/10.1007/s12559-016-9384-x)
 * Qingqing Zhou, Chengzhi Zhang\*, Star X. Zhao, Bikun Chen. Measuring Book Impact Based on the Multi-granularity Online Review Mining. ***Scientometrics***. 2016, 107(3): 1435-1455. [[doi]](https://doi.org/10.1007/s11192-016-1930-5)
-* Chao Lu, Chengzhi Zhang\*, Daqing He. Comparative analysis of book tags: a cross-lingual perspective. ***The Electronic Library. 2016***, 34(4):666-682.  [[doi]](https://doi.org/10.1108/EL-03-2015-0042)  (***Highly Commended Paper in the 2017 Emerald Literati Network Awards for Excellence***)
+* Chao Lu, Chengzhi Zhang\*, Daqing He. Comparative analysis of book tags: a cross-lingual perspective. ***The Electronic Library***. 2016, 34(4):666-682.  [[doi]](https://doi.org/10.1108/EL-03-2015-0042)  (***Highly Commended Paper in the 2017 Emerald Literati Network Awards for Excellence***)
 * Lu Xiao, Guo Chen, Jianjun Sun, Shuguang Han, Chengzhi Zhang. Exploring the topic hierarchy of digital library research in China using keyword networks: a K-core decomposition approach. ***Scientometrics***, 2016, 108(3): 1085–1101.
 * Shutian Ma, Xiaoyong Zhang, Chengzhi Zhang\*. NLPCC 2016 Shared Task: Chinese Words Similarity Measure via Ensemble Learning based on Multiple Resources. In: ***Proceedings of the Fifth Conference on Natural Language Processing and Chinese Computing & The Twenty Fourth International Conference on Computer Processing of Oriental Languages (NLPCC-ICCPOL 2016)***. Kunming, China, 2016: 862–869.
 * Shutian Ma, Chengzhi Zhang\*, Daqing He. Document Representation Methods for Clustering Bilingual Documents. In: ***Proceedings of the 2016 Annual Meeting of the Association for Information Science and Technology (ASIST’2016)***, Copenhagen, Denmark, 2016.
 * Lei Li and Chengzhi Zhang*. Characterizing Users Tagging Behavior in Academic Blogs. In: ***Proceedings of ACM/IEEE Joint Conference on Digital Libraries 2016 (JCDL2016)***. Newark, NJ, 2016.
 * Lei Li, Daqing He, Chengzhi Zhang. Measurement of academic answer quality :a Case Study on ResearchGate Q&A. In: ***Proceedings of  HCI International 2016***, Toronto, Canada.
-* Lei Li, Ke Zhang, Qingqing Zhou, Chengzhi Zhang*. Toward Understanding Review Usefulness: A Case Study on Yelp Restaurants.In: ***Proceedings of iConferrence2016***, March 20-23, Philadelphia, PA, 2016.
+* Lei Li, Ke Zhang, Qingqing Zhou, Chengzhi Zhang\*. Toward Understanding Review Usefulness: A Case Study on Yelp Restaurants.In: ***Proceedings of iConferrence2016***, March 20-23, Philadelphia, PA, 2016.
 
 
 ## 2015
