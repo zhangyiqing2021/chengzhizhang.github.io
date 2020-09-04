@@ -3,7 +3,7 @@ layout: page
 title:  IR&TM Group
 cover:  false
 menu:   true
-order:  3
+order:  4
 ---
 ## Faculty
 * [Chengzhi Zhang](https://chengzhizhang.github.io/), professor at ischoool of NJUST and his esearch interests include information retrieval, information organization, text mining and nature language processing.
