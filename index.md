@@ -8,7 +8,7 @@ My research interests include information retrieval, information organization, t
 
 I am also a visiting scholar in the [School of Information Sciences (iSchool)](http://ischool.pitt.edu/) at the [University of Pittsburgh](http://www.pitt.edu/) and in the [Department of Linguistics and Translation](lt.cityu.edu.hk/) at the [City University of Hong Kong](https://www.cityu.edu.hk/).
 
-I am a leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/) at NJUST.
+I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/) at NJUST.
 
  
 ## Recent News
