@@ -10,7 +10,7 @@ I am also a visiting scholar in the [School of Information Sciences (iSchool)](h
 
  
 ## Recent News
-
+The workshop proceedings of [EEKE2020](https://eeke2020.github.io/)  are published now and you can see at http://ceur-ws.org/Vol-2658/
 
 ## Recent Research Highlights
 
