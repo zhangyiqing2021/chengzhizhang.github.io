@@ -6,7 +6,7 @@ menu:   true
 order:  3
 ---
 ## Faculty
-* [Guo Chen](https://www.researchgate.net/profile/Guo_Chen13), associate professor at ischoool of NJUST and his research interests include knowledge organization, text mining and nature language processing.
+* [Guo Chen](https://www.researchgate.net/profile/Guo_Chen13) , associate professor at ischoool of NJUST and his research interests include knowledge organization, text mining and nature language processing.
 
 ## Students
 ### PhD students
