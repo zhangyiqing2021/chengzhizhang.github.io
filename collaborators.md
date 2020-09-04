@@ -29,7 +29,7 @@ order:  4
 ### PhD
 {% include collaborator.html people=site.data.collaborators.former-phd %}
 
-### Master's
+### Master
 <!--{
 % include collaborator.html people=site.data.collaborators.former-masters %}
 -->
