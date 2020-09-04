@@ -11,6 +11,7 @@ I am also a visiting scholar in the [School of Information Sciences (iSchool)](h
  
 ## Recent News
 * In August 2020, the workshop proceedings of [EEKE2020](https://eeke2020.github.io/) are published now and you can see at [CEUR](http://ceur-ws.org/Vol-2658/).
+* In August 2020, a paper has been accepted by Journal of Informetrics.
 
 ## Recent Research Highlights
 
