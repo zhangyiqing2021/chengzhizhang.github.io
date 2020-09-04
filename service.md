@@ -5,7 +5,7 @@ cover:  false
 menu:   true
 order:  3
 ---
-## Co-Chair
+##  Co-Chair
 * Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2020](https://eeke2020.github.io/)).
 
 ## Senior Program Committee Member  
