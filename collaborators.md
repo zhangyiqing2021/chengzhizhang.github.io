@@ -8,13 +8,20 @@ order:  3
 
 
 ## Students
-### PhD advisees
+### PhD students
 {% include collaborator.html people=site.data.collaborators.phd-students-first %}
 
 <!--
 <h4>Master's and undergraduate project students</h4>
 {% include collaborator.html people=page.project-students show=false %}
 -->
+### Master students
+* Yuxin Xie, MSc 2019
+* Yuntian Song, MSc 2019
+* Minghui Meng, MSc 2019
+* Ruping Wang, MSc 2018
+* Lifan Liu, MSc 2018
+* Shaohu Hu, MSc 2018
 
 ## Alumni
 ### PhD
