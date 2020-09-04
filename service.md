@@ -8,6 +8,10 @@ order:  3
 ##  Co-Chair
 * Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2020](https://eeke2020.github.io/)).
 
+
+## Session Chair 
+* JCDL(2020), iConference, CCIR, SMP, etc.
+
 ## Senior Program Committee Member  
 * JCDL(2020)
 
