@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Lab
+title:  IR&TM Group
 cover:  false
 menu:   true
 order:  3
