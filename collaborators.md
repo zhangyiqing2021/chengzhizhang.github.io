@@ -1,11 +1,12 @@
 ---
 layout: page
-title:  Students
+title:  Lab
 cover:  false
 menu:   true
 order:  3
 ---
-
+## Faculty
+* [Guo Chen}(https://www.researchgate.net/profile/Guo_Chen13)
 
 ## Students
 ### PhD students
