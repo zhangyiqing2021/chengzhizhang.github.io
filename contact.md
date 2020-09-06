@@ -20,5 +20,5 @@ zhangcz [at] njust dot edu [dot] cn
     like the one that comes with this tweet for example.
   </p>
   &mdash; Florian Klampfer (@qwtel)
-  <a href="https://clustrmaps.com/map_v2.js?d=m33y5dN8Mj3n06hFPjMAdcBqZ_bJr4ridHxEPxBPbls&cl=ffffff&w=a">June 3, 2017</a>
+  <a href="https://www.clustrmaps.com/map_v2.png?d=m33y5dN8Mj3n06hFPjMAdcBqZ_bJr4ridHxEPxBPbls&cl=ffffff"">June 3, 2017</a>
 </blockquote>
