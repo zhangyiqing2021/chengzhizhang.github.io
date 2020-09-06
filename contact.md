@@ -13,4 +13,12 @@ No. 200, Xiaolingwei, Nanjing, China
 ## Email
 zhangcz [at] njust dot edu [dot] cn 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=m33y5dN8Mj3n06hFPjMAdcBqZ_bJr4ridHxEPxBPbls"></script>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  <p lang="en" dir="ltr">
+    The next version of Hydejack (v6.3.0) will allow embedding 3rd party scripts,
+    like the one that comes with this tweet for example.
+  </p>
+  &mdash; Florian Klampfer (@qwtel)
+  <a href="https://twitter.com/qwtel/status/871098943505039362">June 3, 2017</a>
+</blockquote>
