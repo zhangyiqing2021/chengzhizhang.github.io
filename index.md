@@ -12,10 +12,10 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 
  
 ## Recent News
-::bookmark: Call for Paper: Special issue about "Extraction and Evaluation of Knowledge Entities from Scientific Documents” at [JDIS](http://manu47.magtech.com.cn/Jwk3_jdis/EN/news/news1.shtml)(Note: when submit, please put a note “EEKE2020” at the beginning of title).
-::bookmark: Call for Paper: Special issue about 'Scientific Documents Mining and Applicatons' at [DIM](https://www.editorialmanager.com/dim/default.aspx) (Note: when submit, please put a note “EEKE2020” at the beginning of title).
-::bookmark: In August 2020, the workshop proceedings of [EEKE2020](https://eeke2020.github.io/) are published now and you can see at [CEUR](http://ceur-ws.org/Vol-2658/).
-::bookmark: In August 2020, a paper has been accepted by Journal of Informetrics.
+:bookmark: Call for Paper: Special issue about "Extraction and Evaluation of Knowledge Entities from Scientific Documents” at [JDIS](http://manu47.magtech.com.cn/Jwk3_jdis/EN/news/news1.shtml)(Note: when submit, please put a note “EEKE2020” at the beginning of title).
+:bookmark: Call for Paper: Special issue about 'Scientific Documents Mining and Applicatons' at [DIM](https://www.editorialmanager.com/dim/default.aspx) (Note: when submit, please put a note “EEKE2020” at the beginning of title).
+:bookmark: In August 2020, the workshop proceedings of [EEKE2020](https://eeke2020.github.io/) are published now and you can see at [CEUR](http://ceur-ws.org/Vol-2658/).
+:bookmark: In August 2020, a paper has been accepted by Journal of Informetrics.
 
 ## Recent Research Highlights
  
