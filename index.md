@@ -21,6 +21,13 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 :bookmark: In August 2020, a paper has been accepted by Journal of Informetrics.
 
 ## Recent Research Highlights
+  about: |
+    A paragraph.
 
+    Term1
+    : Definition1
+
+    Term2
+    : Definition2
 
 
