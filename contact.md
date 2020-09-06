@@ -11,4 +11,4 @@ Nanjing University of Science and Technology
 No. 200, Xiaolingwei, Nanjing, China 
 
 ## Email
-zhangcz [at] njust dot edu [dot] cn 
+:email: zhangcz [at] njust dot edu [dot] cn 
