@@ -7,5 +7,6 @@ order:  1
 ---
 
 image:
+
 path:  /assets/img/cuisine_preferences/result.jpg
  
