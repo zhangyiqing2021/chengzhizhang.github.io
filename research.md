@@ -3,7 +3,7 @@ layout: page
 title:  Research
 cover:  false
 menu:   true
-order:  2
+order:  1
 ---
 
  
