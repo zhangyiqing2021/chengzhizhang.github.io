@@ -6,7 +6,9 @@ menu:   true
 order:  2
 ---
 
-#### Model UN?
-<img src="./algorithm_entity/algorithm.jpg" alt="Name tags of attended MUN conferences" align="right" width="100%"/>
+## Using the Full-text Content of Academic Articles to Identify and Evaluate Algorithm Entities in the Domain of Natural Language Processing
+<img src="./algorithm_entity/algorithm.jpg" alt="Name tags of attended MUN conferences" align="left" width="100%"/>
 
-Model UN is great. Strongly recommended. Even if you're not into politics, this giant social-party atmosphere will pull you into this extravaganza, and also allows you to meet some of the best people you'll ever make friends with! (It is quite expensive though, would like to see it becoming more affordable, but eh.)
+* Taking the natural language processing (NLP) as an example, we manually annotate the more algorithm entities with specific names in academic papers, and evaluate the influence of the algorithm based on the number of papers mentioning an algorithm and duration of mention.
+* We analyze the changes of the algorithms with high impact in different years, and explore the evolution of the algorithm influence over time.
+* Algorithm entities and sentences mentioning these algorithms identified by this work can be used as a training corpus for automatic extraction of the algorithmic entities. 
