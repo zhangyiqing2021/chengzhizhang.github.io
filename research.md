@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title:  Research
 cover:  false
