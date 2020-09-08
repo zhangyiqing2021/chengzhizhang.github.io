@@ -6,7 +6,7 @@ menu:   true
 order:  2
 ---
 ##  **Scientific Text Mining**
-### ** * Examining scientific writing styles from the perspective of linguistic complexity** 
+### *** Examining scientific writing styles from the perspective of linguistic complexity** 
 <img src="./scientific_writing_styles/syntactic_complexity.jpg" alt="Distribution of Syntactic Complexity" align="left" width="70%"/>
 To uncover the differences in English scientific writing between native English-speaking scholars (NESs) and non-native English-speaking scholars (NNESs), we collected a large-scale data set containing more than 150,000 full-text articles published in PLoS between 2006 and 2015. We divided these articles into three groups according to the ethnic backgrounds of the first and corresponding authors, obtained by Ethnea, and examined the scientific writing styles in English from a two-fold perspective of inguistic complexity: syntactic and lexical complexity. The observations suggest marginal differences between groups in syntactical and lexical complexity.
 
