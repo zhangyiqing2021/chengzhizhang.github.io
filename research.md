@@ -24,7 +24,6 @@ context to help keyphrase taggers indicate salient phrases. The keyphrase tagger
  
 ### Using social media to explore regional cuisine preferences in China
 [<img src="./cuisine_preferences/cuisine_preferences.jpg" alt="Rgional Cuisine Preferences in China" align="left" width="70%"/>](https://chengzhizhang.github.io/research/cuisine_preferences/results.html) 
-
 Based on both UGC and online recipes, we first investigated the cuisine preference distribution in different regions. Then, dish preference similarity between regions was calculated and few geographic factors were identified, which might lead to such regional similarity appeared in our study. By applying hierarchical clustering, we clustered regions based on dish preference and ingredient usage separately.Different from traditional definitions of regions to which cuisine belong, we found new association between region and cuisine based on dish preference from social media and ingredient usage of dishes. Using social media may overcome problems with using traditional questionnaires, such as high costs and long cycle for questionnaire design and answering.
 
 *Chengzhi Zhang, Zijing Yue, Qingqing Zhou, Shutian Ma, Zike Zhang. Using social media to explore regional cuisine preferences in China. **Online Information Review**. 2019, 43(7): 1098-1114. [[doi]](https://doi.org/10.1108/OIR-08-2018-0244)  [[Demo]](https://chengzhizhang.github.io/research/cuisine_preferences/results.html)
