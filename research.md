@@ -26,7 +26,7 @@ Taking NLP as an example, we manually annotate the more algorithm entities with 
 
 
 ### **Joint Modeling of Characters, Words, and Conversation Contexts for Microblog Keyphrase Extraction** 
-<img src="./keyphrase_extraction/framework.jpg" alt="Microblog Keyphrase Extraction" align="left" width="70%"/>
+<img src="./keyphrase_extraction/heatmap.jpg" alt="The Heatmap of the Context Representation" align="left" width="70%"/>
 We propose a neural keyphrase extraction framework for microblog posts. The framework consists of two modules: a conversation context encoder and a keyphrase tagger. Conversation context encoders are utilized to encode conversation
 context to help keyphrase taggers indicate salient phrases. The keyphrase tagger is employed to extract keyphrases from target posts. To leverage the structure of conversation, the hierarchical encoder is employed to learn the word-level and message-level information from a conversation context. To alleviate the OOV problem in usergenerated content on social media platforms, we utilized the character-level word embedding to capture both characterlevel and word-level features in both conversation context encoders and keyphrase taggers.
 
