@@ -11,8 +11,8 @@ order:  2
 To uncover the differences in English scientific writing between native English-speaking scholars (NESs) and non-native English-speaking scholars (NNESs), we collected a large-scale data set containing more than 150,000 full-text articles published in PLoS between 2006 and 2015. We divided these articles into three groups according to the ethnic backgrounds of the first and corresponding authors, obtained by Ethnea, and examined the scientific writing styles in English from a two-fold perspective of inguistic complexity: syntactic and lexical complexity. The observations suggest marginal differences between groups in syntactical and lexical complexity.
 
 *Chao Lu, Yi Bu, Jie Wang, Ying Ding, Vetle Torvik, Matthew Schnaars, Chengzhi Zhang\*. Examining scientific writing styles from the perspective of linguistic complexity. **Journal of the Association for Information Science and Technology**, 2019, 70(5):462-475.*  [[doi]](https://onlinelibrary.wiley.com/doi/10.1002/asi.24126)
-I'm faded, faded, faded.
-{:.faded}
+You can add a note.
+{:.note}
 
 ##  **Knowledge Entity Extraction and Evaluation**
 
