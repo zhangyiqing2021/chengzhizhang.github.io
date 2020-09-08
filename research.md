@@ -6,7 +6,7 @@ menu:   true
 order:  2
 ---
 
-## Knowledge Entity Extraction and Evaluation
+## ***Knowledge Entity Extraction and Evaluation***
 
 ###  **Using the Full-text Content of Academic Articles to Identify and Evaluate Algorithm Entities in the Domain of Natural Language Processing** 
 [<img src="./algorithm_entity/algorithm.jpg" alt="Algorithm Influence in NLP (19679~2015)" align="left" width="70%"/>](https://chengzhizhang.github.io/research/algorithm_entity/algorithm_influence.html) 
@@ -15,7 +15,7 @@ Taking NLP as an example, we manually annotate the more algorithm entities with 
 
 *Yuzhuo Wang, Chengzhi Zhang\*. Using the Full-text Content of Academic Articles to Identify and Evaluate Algorithm Entities in the Domain of Natural Language Processing. **Journal of Informetrics**, 2020. (in press)* [[Demo: Algorithm Influence in NLP (19679~2015)]](https://chengzhizhang.github.io/research/algorithm_entity/algorithm_influence.html) 
 
-## Social Media Mining.
+## ***Social Media Mining***
 ###  Joint Modeling of Characters, Words, and Conversation Contexts for Microblog Keyphrase Extraction 
 <img src="./keyphrase_extraction/framework.jpg" alt="Microblog Keyphrase Extraction" align="left" width="70%"/>
 We propose a neural keyphrase extraction framework for microblog posts. The framework consists of two modules: a conversation context encoder and a keyphrase tagger. Conversation context encoders are utilized to encode conversation
