@@ -22,3 +22,4 @@ We propose a neural keyphrase extraction framework for microblog posts. The fram
 context to help keyphrase taggers indicate salient phrases. The keyphrase tagger is employed to extract keyphrases from target posts. To leverage the structure of conversation, the hierarchical encoder is employed to learn the word-level and message-level information from a conversation context. To alleviate the OOV problem in usergenerated content on social media platforms, we utilized the character-level word embedding to capture both characterlevel and word-level features in both conversation context encoders and keyphrase taggers.
 
 *Yingyi Zhang, Chengzhi Zhang\*, Jing Li. Joint Modeling of Characters, Words, and Conversation Contexts for Microblog Keyphrase Extraction. **Journal of the Association for Information Science and Technology**, 2020, 71(5):553-567.* [[doi]](https://onlinelibrary.wiley.com/doi/full/10.1002/asi.24279)
+ 
