@@ -3,7 +3,7 @@ layout: list
 title: Contact
 cover: false
 menu: true
-order: 5
+order: 7
 ---
 ## Address
 Room 511, Building of Economics and Management,
