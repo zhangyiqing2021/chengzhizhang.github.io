@@ -23,7 +23,7 @@ order:  3
 * Bowen Ma, Yuzhuo Wang, Chengzhi Zhang\*. CSAA: An Online Annotating Platform for Classifying Sections of Academic Articles. In: ***Proceedings of the 20th ACM/IEEE Joint Conference on Digital Libraries (JCDL2020)***, Wuhan, China, 2020. [[doi]](https://doi.org/10.1145/3383583.3398592)
 * Ruping Wang, Chengzhi Zhang\*, Yingyi Zhang, Jinzhu Zhang. Extracting Methodological Sentences from Unstructured Abstracts of Academic Articles. In: ***Proceedings of iConference2020***, Borås, Sweden, 23th-26th March, 2020.  [[doi]](https://doi.org/10.1007/978-3-030-43687-2_66)
 * Yi Zhao, Haixu Xi, Chengzhi Zhang\*. Exploration of Occupation Differences in Reactions to COVID-19 Pandemic on Twitter. ***In: Proceedings of ASIS&T Asia-Pacific Regional Conference 2020***, 2020, Wuhan, China.
-* Bowen Ma, Chengzhi Zhang\*, Yuzhuo Wang,Exploring Significant Characteristics and Models for Classification of Structure Function of Academic Documents. In: ***Proceedings of ASIS&T Asia-Pacific Regional Conference 2020***, 2020, Wuhan, China.
+* Bowen Ma, Chengzhi Zhang\*, Yuzhuo Wang. Exploring Significant Characteristics and Models for Classification of Structure Function of Academic Documents. In: ***Proceedings of ASIS&T Asia-Pacific Regional Conference 2020***, 2020, Wuhan, China.
 
 ## 2019
 * Chengzhi Zhang, Tiantian Tong, Yi Bu. Examining Differences among Book Reviews from Various Online Platforms. ***Online Information Review***. 2019, 43(7): 1169-1187.  [[doi]](https://doi.org/10.1108/OIR-01-2019-0037)
