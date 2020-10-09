@@ -6,6 +6,9 @@ menu:   true
 order:  3
 ---
  (*=corresponding author)
+## 2021
+* Heng Zhang, Chengzhi\*. Using Full-text Content of Academic Articles to Build a Methodology Taxonomy of Information Science in China. Knowledge Organization, 2021. (in press) [[doi]] [[Demo: Methodology Taxonomy of Information Science in China](https://chengzhizhang.github.io/research/methodology_taxonomy/mtis.html)]
+
 ## 2020
 * Chengzhi Zhang, Philipp Mayr, Wei Lu, Yi Zhang. ***Proceedings of the 1st Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents***. co-located with the ACM/IEEE Joint Conference on Digital Libraries in 2020 (JCDL 2020), Virtual Event, China, August 1st, 2020. [[Proceedings]](http://ceur-ws.org/Vol-2658/)
 * Chengzhi Zhang, Qinqqing Zhou. Assessing Books' Depth and Breadth via Multi-level Mining on Tables of Contents. ***Journal of Informetrics***, 2020, 14(2): 101032. [[doi]](https://doi.org/10.1016/j.joi.2020.101032)
