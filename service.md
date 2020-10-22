@@ -18,7 +18,7 @@ order:  5
 ## Program Committee Member 
 
 * IS field: ASIS&T, JCDL, iConference, ISSI, STI, GTM, SDP, ICEBE, COINFO, etc.
-* NLP field: IJCAI, ACL, EMNLP, AACL, IJCNLP, NLPCC, SMP, CCIR, NLPOE, IWWIP, etc.
+* NLP field: IJCAI, ACL, EMNLP, NAACL, AACL, IJCNLP, NLPCC, SMP, CCIR, NLPOE, IWWIP, etc.
 
 ## Editorial Board Member 
 * Guest Editors: The Electronic Library, Information Discovery and Delivery, Journal of Natural Language Engineering (JNLE), Journal of Data and Information Science (JDIS), Data and Information Management (DIM)
