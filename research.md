@@ -27,7 +27,7 @@ Taking NLP as an example, we manually annotate the more algorithm entities with 
 <img src="./keyphrase_extraction/Attention-Mechanism.jpg" alt="Attention-mechanism-based keyphrase extraction models" align="left" width="70%"/>
 We aim to leverage human reading time to extract keyphrases from microblog posts. There are two main tasks in this study. One is to determine how to measure the time spent by a human on reading a word. We use eye fixation durations extracted from an open source eye-tracking corpus (OSEC). Moreover, we propose strategies to make eye fixation duration more effective on keyphrase extraction. The other task is to determine how to integrate human reading time into keyphrase extraction models. We propose two novel neural network models. The first is a model in which the human reading time is used as the ground truth of the attention mechanism. In the second model, we use human reading time as the external feature.
 
->Yingyi Zhang, Chengzhi Zhang\*. Enhancing Keyphrase Extraction from Microblogs using Human Reading Time. ***Journal of the Association for Information Science and Technology***, 2021. (in press) [[doi]]
+>Yingyi Zhang, Chengzhi Zhang\*. Enhancing Keyphrase Extraction from Microblogs using Human Reading Time. ***Journal of the Association for Information Science and Technology***, 2021. (in press) [[doi]](http://doi.org/10.1002/asi.24430)
 
 *  ### **Joint Modeling of Characters, Words, and Conversation Contexts for Microblog Keyphrase Extraction** 
 <img src="./keyphrase_extraction/heatmap.jpg" alt="The Heatmap of the Context Representation" align="left" width="70%"/>
