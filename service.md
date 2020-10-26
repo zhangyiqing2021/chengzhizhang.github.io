@@ -22,7 +22,7 @@ order:  5
 
 ## Editorial Board Member 
 * Guest Editors: The Electronic Library, Information Discovery and Delivery, Journal of Natural Language Engineering (JNLE), Journal of Data and Information Science (JDIS), Data and Information Management (DIM)
-* Editorial Board Member: Patterns, Online Information Review, The Electronic Library, Information Discovery and Delivery, Frontiers in Research Metrics and Analytics, Data Intelligence
+* Editorial Board Member: Patterns, Online Information Review, The Electronic Library, Information Discovery and Delivery, Frontiers in Research Metrics and Analytics, Data Intelligence, International Journal of Knowledge Content Development and Technology
 
 
 
