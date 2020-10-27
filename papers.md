@@ -7,7 +7,7 @@ order:  3
 ---
  (*=corresponding author)
 ## 2021
-* Yingyi Zhang, Chengzhi Zhang\*. Enhancing Keyphrase Extraction from Microblogs using Human Reading Time. ***Journal of the Association for Information Science and Technology***, 2021. (in press) [[doi]](http://doi.org/10.1002/asi.24430)  [[arxiv]]https://arxiv.org/abs/2010.09934
+* Yingyi Zhang, Chengzhi Zhang\*. Enhancing Keyphrase Extraction from Microblogs using Human Reading Time. ***Journal of the Association for Information Science and Technology***, 2021. (in press) [[doi]](http://doi.org/10.1002/asi.24430)  [[arxiv]](https://arxiv.org/abs/2010.09934)
 * Heng Zhang, Chengzhi Zhang\*. Using Full-text Content of Academic Articles to Build a Methodology Taxonomy of Information Science in China. ***Knowledge Organization***, 2021. (in press) [[doi]] [[Demo: Methodology Taxonomy of Information Science in China](https://chengzhizhang.github.io/research/methodology_taxonomy/mtis.html)]
 
 ## 2020
