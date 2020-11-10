@@ -10,7 +10,7 @@ order:  5
 
 
 ## Session Chair 
-* JCDL(2020), iConference, CCIR, SMP, etc.
+* JCDL, iConference, GTM, ASIS&T Asia-Pacific Regional Conference, CCIR, SMP, etc.
 
 ## Senior Program Committee Member  
 * JCDL(2020)
