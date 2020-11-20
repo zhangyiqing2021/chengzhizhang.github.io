@@ -108,11 +108,11 @@ github:
 ResearchGate:
   name: ResearchGate
   icon: icon-researchgate
-  prepend: "https://www.researchgate.net/directory/profiles"
+  prepend: "https://www.researchgate.net/directory/profiles/"
 ORCID:
   name: ORCID
   icon: icon-orcid
-  prepend: "https://orcid.org/my-orcid"
+  prepend: "https://orcid.org/my-orcid/"
 npm:
   name: npm
   icon: icon-npm
