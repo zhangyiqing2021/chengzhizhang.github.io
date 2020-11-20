@@ -1,4 +1,4 @@
-# This file contains meta data for various social media sites
+﻿# This file contains meta data for various social media sites
 email:
   name: Email
   icon: icon-mail
@@ -105,6 +105,10 @@ github:
   name: GitHub
   icon: icon-github
   prepend: "https://github.com/"
+ResearchGate:
+  name: ResearchGate
+  icon: icon-researchgate
+  prepend: "https://www.researchgate.net/"
 npm:
   name: npm
   icon: icon-npm
