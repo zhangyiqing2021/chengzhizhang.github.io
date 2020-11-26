@@ -121,7 +121,7 @@ order:  3
 ## 2013
 
 * Qingqing Zhou & Chengzhi Zhang\*. Relationship between scores and tags for Chinese books—In the case of Douban Book. ***Chinese Journal of Library and Information Science***, 2013,6(4): 40-54.
-* Chengzhi Zhang, Xuchen Yao and Chunyu Kit. Finding More Bilingual Web Pages with High Credibility via Link Analysis. In: ***Proceedings of the 6th Workshop on Building and Using Comparable Corpora (BUCC2013)***. 8 August 2013, Sofia, Bulgaria.
+* Chengzhi Zhang, Xuchen Yao and Chunyu Kit. Finding More Bilingual Web Pages with High Credibility via Link Analysis. In: ***Proceedings of the 6th Workshop on Building and Using Comparable Corpora (BUCC2013)***. 8 August 2013, Sofia, Bulgaria. [[Dataset & Source Code]](http://mega.lt.cityu.edu.hk/~czhang22/pupsniffer-eval/)
 * Sa Liu, Chengzhi Zhang. Termhood-Based Comparability Metrics of Comparable Corpus in Special Domain. In: ***Proceedings of The 14th Chinese Lexical Semantics Workshop (CLSW2012)***, LNAI,Volume 7717/2013, Springer, 2013: 134–144.
     
 ## 2012 and Before
