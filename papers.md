@@ -9,6 +9,8 @@ order:  3
 ## 2021
 * Yingyi Zhang, Chengzhi Zhang\*. Enhancing Keyphrase Extraction from Microblogs using Human Reading Time. ***Journal of the Association for Information Science and Technology***, 2021. (in press) [[doi]](http://doi.org/10.1002/asi.24430)  [[arxiv]](https://arxiv.org/abs/2010.09934)
 * Heng Zhang, Chengzhi Zhang\*. Using Full-text Content of Academic Articles to Build a Methodology Taxonomy of Information Science in China. ***Knowledge Organization***, 2021. (in press) [[doi]] [[Demo: Methodology Taxonomy of Information Science in China](https://chengzhizhang.github.io/research/methodology_taxonomy/mtis.html)]
+* Yi Zhao, Haixu Xi, Chengzhi Zhang\*. Exploration of Occupation Differences in Reactions to COVID-19 Pandemic on Twitter. ***Data and Information Management***, 2021, 5(1): 110-118. [[doi]](https://doi.org/10.2478/dim-2020-0032) [[video]](https://chengzhizhang.github.io/research/video/ASIST-APR-Zhao.mp4)
+* Bowen Ma, Chengzhi Zhang\*, Yuzhuo Wang. Exploring Significant Characteristics and Models for Classification of Structure Function of Academic Documents. ***Data and Information Management***, 2021, 5(1): 65-74.  [[doi]](https://doi.org/10.2478/dim-2020-0031) [[video]](https://chengzhizhang.github.io/research/video/ASIST-APR-2021.mp4)
 
 ## 2020
 * Chengzhi Zhang, Philipp Mayr, Wei Lu, Yi Zhang. ***Proceedings of the 1st Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents***. co-located with the ACM/IEEE Joint Conference on Digital Libraries in 2020 (JCDL 2020), Virtual Event, China, August 1st, 2020. [[Proceedings]](http://ceur-ws.org/Vol-2658/)
@@ -27,8 +29,6 @@ order:  3
 * Wenke Hao, Zhicheng Li, Yuchen Qian, Yuzhuo Wang, Chengzhi Zhang\*. The ACL FWS-RC: A Dataset for Recognition and Classification of  Sentence about Future Works. In: ***Proceedings of the 20th ACM/IEEE Joint Conference on Digital Libraries (JCDL2020)***, Wuhan, China, 2020. [[doi]](https://doi.org/10.1145/3383583.3398526)
 * Bowen Ma, Yuzhuo Wang, Chengzhi Zhang\*. CSAA: An Online Annotating Platform for Classifying Sections of Academic Articles. In: ***Proceedings of the 20th ACM/IEEE Joint Conference on Digital Libraries (JCDL2020)***, Wuhan, China, 2020. [[doi]](https://doi.org/10.1145/3383583.3398592) [[video]](https://chengzhizhang.github.io/research/video/JCDL2020.mp4)
 * Ruping Wang, Chengzhi Zhang\*, Yingyi Zhang, Jinzhu Zhang. Extracting Methodological Sentences from Unstructured Abstracts of Academic Articles. In: ***Proceedings of iConference2020***, Borås, Sweden, 23th-26th March, 2020.  [[doi]](https://doi.org/10.1007/978-3-030-43687-2_66)
-* Yi Zhao, Haixu Xi, Chengzhi Zhang\*. Exploration of Occupation Differences in Reactions to COVID-19 Pandemic on Twitter. ***In: Proceedings of ASIS&T Asia-Pacific Regional Conference 2020***, 2020, Wuhan, China. [[doi]](https://doi.org/10.2478/dim-2020-0032) [[video]](https://chengzhizhang.github.io/research/video/ASIST-APR-Zhao.mp4)
-* Bowen Ma, Chengzhi Zhang\*, Yuzhuo Wang. Exploring Significant Characteristics and Models for Classification of Structure Function of Academic Documents. In: ***Proceedings of ASIS&T Asia-Pacific Regional Conference 2020***, 2020, Wuhan, China.  [[doi]](https://doi.org/10.2478/dim-2020-0031) [[video]](https://chengzhizhang.github.io/research/video/ASIST-APR-2021.mp4)
 
 ## 2019
 * Chengzhi Zhang, Tiantian Tong, Yi Bu. Examining Differences among Book Reviews from Various Online Platforms. ***Online Information Review***. 2019, 43(7): 1169-1187.  [[doi]](https://doi.org/10.1108/OIR-01-2019-0037)
