@@ -69,6 +69,9 @@ path.area {
   display: none;
 }
 
+.Output {
+	text-align: center;
+}
 </style>
 </head>
 <body>
@@ -76,29 +79,13 @@ path.area {
 <header>
   <!-- <aside>May 22, 2012</aside> -->
   <!-- <a href="../" rel="author">Mike Bostock</a> -->
+ 
 </header>
-
-<h1><a>Evolution of co-occurrence algorithm in ACL from 1979 to 2015</a></h1>
+ <div class="Output">
+ 
+ <h1><a>Evolution of co-occurrence algorithm in ACL from 1979 to 2015</a></h1>
 
 <p id="chart"></p>
-
-<div style="margin: 0.5rem;">
-  <a id="svg-editor-link" style="
-        color:#FFFFFF;
-        text-align: center;
-        padding-left: 0.5rem;
-        padding-right: 0.5rem;
-        padding-top: 0.25rem;
-        background:#48bb78;
-        border: 1px solid #2f855a;
-        border-radius: 0.25rem;
-        cursor: pointer;
-        /*! margin: 0.5rem; */
-        white-space: nowrap;
-      ">
-    Edit labels
-  </a>
-</div>
 
 
 <!-- <aside>Drag to rearrange nodes.</aside> -->
@@ -245,3 +232,7 @@ var svg = d3.select("#chart").append("svg")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 </script>
+ 
+ 
+ 
+ </div>
