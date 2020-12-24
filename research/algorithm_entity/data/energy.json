@@ -1,0 +1,556 @@
+{
+    "nodes": [
+        {
+            "terms": "edit distance, levenshtein distance, ID3 learning, greedy algorithm",
+            "name": "levenshtein distance & greedy algorithm-*-4",
+            "color": "#479fb3",
+            "period": "1998_2000",
+            "sizess": 65,
+            "posx": 0.5081965713518314,
+            "posy": 0.23965300699786599
+        },
+        {
+            "terms": "left-corner, head grammars, tree unification grammars, Semantic-Head-Driven Generation, Binary trees, unification categorial grammars, categorial grammars",
+            "name": "categorial grammars & tree unification grammars-*-1",
+            "color": "#fba55c",
+            "period": "1989_1991",
+            "sizess": 77,
+            "posx": 0.21311469121205837,
+            "posy": 0.25253290145159724
+        },
+        {
+            "terms": "multicomponent Tree Adjoining Grammar, Earley algorithm, contextfree grammars, unification grammars, dependency grammars, cocke-younger-kasami, polynomial-time, definite-clause grammars, Boolean matrix multiplication",
+            "name": "contextfree grammars & Earley algorithm-*-3",
+            "color": "#fdca78",
+            "period": "1995_1997",
+            "sizess": 209,
+            "posx": 0.4098359446385737,
+            "posy": 0.24543740367661362
+        },
+        {
+            "terms": "tree-substitution grammars, TreeAdjoining grammars, synchronous context-free grammars, cocke-younger-kasami, dynamic-programming, beam-search, contextfree grammars, k-best, head-drive phrase structure grammar, tree-to-string, polynomial-time, probabilistic contextfree grammar, GHKM",
+            "name": "contextfree grammars & cocke-younger-kasami-*-8",
+            "color": "#fdca78",
+            "period": "2010_2012",
+            "sizess": 1968,
+            "posx": 0.9016390782048621,
+            "posy": 0.9254768229504343
+        },
+        {
+            "terms": "labeling propagation, linear program, ID/lP parsing",
+            "name": "labeling propagation & linear program-*-0",
+            "color": "#6ec5a4",
+            "period": "1979_1988",
+            "sizess": 12,
+            "posx": 0.0,
+            "posy": 0.11416052936980967
+        },
+        {
+            "terms": "lattice parsing, TreeAdjoining grammars, pushdown automaton, CF parsing, augmented phrase structure grammar, dynamic-programming, contextfree grammars, context sensitive grammars, tree traversal, structure grammars, logistic regression, definite-clause grammars, Earley algorithm, mildly context-sensitive grammar, neural networks",
+            "name": "structure grammars & logistic regression-*-1",
+            "color": "#fdca78",
+            "period": "1989_1991",
+            "sizess": 140,
+            "posx": 0.21311469121205837,
+            "posy": 0.33491386702247583
+        },
+        {
+            "terms": "best-first, maximum entropy markov model, beam-search, ExpectationMaximization, unification grammars, log-linear, hidden markov model, stochastic unification-based grammars, k-means, probabilistic contextfree grammar, maximal likelihood estimation",
+            "name": "probabilistic contextfree grammar & stochastic unification-based grammars-*-5",
+            "color": "#fdca78",
+            "period": "2001_2003",
+            "sizess": 386,
+            "posx": 0.606557198065089,
+            "posy": 0.4944710777332981
+        },
+        {
+            "terms": "Head Driven Phrase, head-drive phrase structure grammar, bp neural networks, lexicalized context free grammars, Belief propagation, structure grammars, backpropagation, polynomial-time, lexicalized tree adjoining grammars",
+            "name": "Head Driven Phrase & bp neural networks-*-2",
+            "color": "#fee899",
+            "period": "1992_1994",
+            "sizess": 77,
+            "posx": 0.311475317925316,
+            "posy": 0.05643082755872675
+        },
+        {
+            "terms": "deep neural networks, nearest-neighbours, word2vec, neural networks, stochastic gradient descent, gradient descent, l2 regularization, word embedding, backpropagation, Continuous Bag-of-Words Model, skip-gram, adagrad, convolutional neural networks, recurrent neural networks",
+            "name": "neural networks & convolutional neural networks-*-9",
+            "color": "#fdca78",
+            "period": "2013_2015",
+            "sizess": 5076,
+            "posx": 0.9999997049181198,
+            "posy": 0.8802811451458781
+        },
+        {
+            "terms": "Transformation-Based Learning, neural networks, Winnow, Weighted Majority, weighted majority, backpropagation, Majority Vote, C4.5, naivebayes",
+            "name": "Weighted Majority & weighted majority-*-4",
+            "color": "#fdca78",
+            "period": "1998_2000",
+            "sizess": 160,
+            "posx": 0.5081965713518314,
+            "posy": 0.40142653456076
+        },
+        {
+            "terms": "best-first, dynamic-programming, inversion transduction grammars, bracket transduction grammar, stochastic bracketing transduction grammars, ID/lP parsing, context-free parsing, ibm models, ExpectationMaximization",
+            "name": "inversion transduction grammars & bracket transduction grammar-*-3",
+            "color": "#ecf7a2",
+            "period": "1995_1997",
+            "sizess": 97,
+            "posx": 0.4098359446385737,
+            "posy": 0.08159036479810503
+        },
+        {
+            "terms": "BLEU, TreeAdjoining grammars, ExpectationMaximization, dynamic-programming, beam-search, inversion transduction grammars, contextfree grammars, left-corner, log-linear, head-drive phrase structure grammar, dependency grammars, maximal likelihood estimation, cocke-younger-kasami, polynomial-time, probabilistic contextfree grammar, hidden markov model, ibm models, Local-Maxima, kneser-ney smoothing",
+            "name": "log-linear & polynomial-time-*-6",
+            "color": "#fdca78",
+            "period": "2004_2006",
+            "sizess": 2344,
+            "posx": 0.7049178247783467,
+            "posy": 0.7725068365350126
+        },
+        {
+            "terms": "combinatory categorial grammars, Path Ranking, linear indexed grammar, Phrase Resolution Algorithm, cocke-younger-kasami, polynomial-time, classical categorial grammars, CKY-style",
+            "name": "classical categorial grammars & Path Ranking-*-1",
+            "color": "#fdca78",
+            "period": "1989_1991",
+            "sizess": 67,
+            "posx": 0.21311469121205837,
+            "posy": 0.29292031213929454
+        },
+        {
+            "terms": "BLEU, inversion transduction grammars, relaxation, log-linear, srilm, probabilistic contextfree grammar, kneser-ney smoothing, synchronous context-free grammars, contextfree grammars, dependency grammars, Bayesian model, TreeAdjoining grammars, dynamic-programming, ibm models, k-best, polynomial-time, minimumerror-rate training, beam-search, minimum bayesian risk, maximal likelihood estimation, cocke-younger-kasami, Gibbs sampling",
+            "name": "synchronous context-free grammars & cocke-younger-kasami-*-7",
+            "color": "#fdca78",
+            "period": "2007_2009",
+            "sizess": 2556,
+            "posx": 0.8032784514916045,
+            "posy": 0.9374619115990112
+        },
+        {
+            "terms": "Hyperlink-Induced Topic Search, Latent Dirichlet Allocation, bootstrapping, graph-based, random walk, TF-IDF, decision-tree, naivebayes, self-training, support-vector machine, latent semantics analysis, maximum-entropy, logistic regression, Bag-of-Words, singular-value decomposition, Cosine Similarity, co-training, integer linear program",
+            "name": "Bag-of-Words & support-vector machine-*-8",
+            "color": "#fdca78",
+            "period": "2010_2012",
+            "sizess": 3192,
+            "posx": 0.9016390782048621,
+            "posy": 0.9999941091103717
+        },
+        {
+            "terms": "functional unification grammars, context-free parsing, kay's functional unification grammars, dependency grammars, definite-clause grammars, NWISE-CONSISTENCY, Earley algorithm",
+            "name": "kay's functional unification grammars & NWISE-CONSISTENCY-*-0",
+            "color": "#c42c4b",
+            "period": "1979_1988",
+            "sizess": 86,
+            "posx": 0.0,
+            "posy": 0.18397697452538594
+        },
+        {
+            "terms": "semantic perceptron net, TreeAdjoining grammars, functional unification grammars, multiple context-free grammars, head grammars, linear indexed grammar, categorial grammars, combinatory categorial grammars, lexical-functional grammars",
+            "name": "head grammars & lexical-functional grammars-*-2",
+            "color": "#fba55c",
+            "period": "1992_1994",
+            "sizess": 130,
+            "posx": 0.311475317925316,
+            "posy": 0.21593721092159188
+        },
+        {
+            "terms": "Latent Dirichlet Allocation, bootstrapping, k-means, random walk, TF-IDF, decision-tree, naivebayes, support-vector machine, latent semantics analysis, logistic regression, Bag-of-Words, singular-value decomposition, Cosine Similarity, Mean Averaged Precision",
+            "name": "TF-IDF & logistic regression-*-9",
+            "color": "#fdca78",
+            "period": "2013_2015",
+            "sizess": 4791,
+            "posx": 0.9999997049181198,
+            "posy": 0.9915140461286881
+        },
+        {
+            "terms": "greedy algorithm, combinatory categorial grammars, best-first, context sensitive grammars, head grammars, multicomponent Tree Adjoining Grammar, contextfree grammars, linear indexed grammar, head-drive phrase structure grammar, categorial grammars, generalized phrase structure grammars, TreeAdjoining grammars, generalized context-free grammars, polynomial-time, categorial unification grammar, classical categorial grammars",
+            "name": "categorial grammars & combinatory categorial grammars-*-0",
+            "color": "#fdca78",
+            "period": "1979_1988",
+            "sizess": 273,
+            "posx": 0.0,
+            "posy": 0.29420116130784474
+        },
+        {
+            "terms": "memorybased learning, nearest-neighbours, neural networks, Minimum Edit Distance, support-vector machine, decision-tree, naivebayes, edit distance, gradient descent, Bag-of-Words, C4.5, Cosine Similarity, BLEU",
+            "name": "edit distance & memorybased learning-*-5",
+            "color": "#fdca78",
+            "period": "2001_2003",
+            "sizess": 421,
+            "posx": 0.606557198065089,
+            "posy": 0.5365561218428045
+        },
+        {
+            "terms": "memorybased learning, nearest-neighbours, Cosine Similarity, tree kernel, neural networks, bootstrapping, TF-IDF, vector-space model, k nearest-neighbours, naivebayes, Pattern Matching, support-vector machine, latent semantics analysis, maximum-entropy, Bag-of-Words, Yarowsky, singular-value decomposition, kernel methods, information gain",
+            "name": "Bag-of-Words & support-vector machine-*-6",
+            "color": "#fdca78",
+            "period": "2004_2006",
+            "sizess": 1738,
+            "posx": 0.7049178247783467,
+            "posy": 0.8549386294538492
+        },
+        {
+            "terms": "head-drive phrase structure grammar, relaxation, log-linear, probabilistic contextfree grammar, Pattern Matching, CKY-style, best-first, contextfree grammars, unification grammars, structure grammars, dependency grammars, lexical-functional grammars, TreeAdjoining grammars, dynamic-programming, categorial grammars, polynomial-time, context-free parsing, tree-insertion grammars, ExpectationMaximization, constraint grammar, left-corner, maximal likelihood estimation, cocke-younger-kasami",
+            "name": "head-drive phrase structure grammar & contextfree grammars-*-4",
+            "color": "#fdca78",
+            "period": "1998_2000",
+            "sizess": 643,
+            "posx": 0.5081965713518314,
+            "posy": 0.302343702450771
+        },
+        {
+            "terms": "henceforth Hobbs, Centering",
+            "name": "henceforth Hobbs & Centering-*-1",
+            "color": "#e1514a",
+            "period": "1989_1991",
+            "sizess": 10,
+            "posx": 0.21311469121205837,
+            "posy": 0.20803864104886474
+        },
+        {
+            "terms": "neural networks, l2 regularization, gradient descent, hidden markov model, maximum-entropy, l-bfgs-b, conditional random \ufb01elds, perceptrons",
+            "name": "conditional random \ufb01elds & neural networks-*-7",
+            "color": "#fdca78",
+            "period": "2007_2009",
+            "sizess": 1092,
+            "posx": 0.8032784514916045,
+            "posy": 0.9010491995216566
+        },
+        {
+            "terms": "edit distance, l-bfgs-b, graph-based, viterbi decoding, boosting algorithm, voted perceptrons, gradient descent, decision-tree, logistic regression, conditional random \ufb01elds, perceptrons, C4.5",
+            "name": "conditional random \ufb01elds & logistic regression-*-6",
+            "color": "#fdca78",
+            "period": "2004_2006",
+            "sizess": 1053,
+            "posx": 0.7049178247783467,
+            "posy": 0.817611025113245
+        },
+        {
+            "terms": "Case-Frame, left-corner, Augmented Transition Network, semantic grammars, constraint-propagation, relaxation, henceforth Hobbs, kimmo generation, Pattern Matching, Classification and Regression Tree",
+            "name": "Pattern Matching & semantic grammars-*-0",
+            "color": "#e1514a",
+            "period": "1979_1988",
+            "sizess": 106,
+            "posx": 0.0,
+            "posy": 0.24327215865358737
+        },
+        {
+            "terms": "treebank grammars, stochastic context free grammars, head-drive phrase structure grammar, Earley algorithm, dynamic-programming, combinatory categorial grammars, contextfree grammars, tree-substitution grammars, categorial grammars, TreeAdjoining grammars, dependency grammars, cocke-younger-kasami, polynomial-time, ibm models",
+            "name": "Earley algorithm & polynomial-time-*-5",
+            "color": "#fdca78",
+            "period": "2001_2003",
+            "sizess": 413,
+            "posx": 0.606557198065089,
+            "posy": 0.44991582451301715
+        },
+        {
+            "terms": "linear program, head-drive phrase structure grammar, Head Driven Phrase, context sensitive grammars, Syntactic semantics, description tree grammars, structure grammars, TreeAdjoining grammars, labeling propagation, mildly context-sensitive grammar, synchronous adaptor grammars",
+            "name": "linear program & mildly context-sensitive grammar-*-3",
+            "color": "#3e77b5",
+            "period": "1995_1997",
+            "sizess": 134,
+            "posx": 0.4098359446385737,
+            "posy": 0.0
+        },
+        {
+            "terms": "stochastic gradient descent, gradient descent, l-bfgs-b, relaxation, conditional random \ufb01elds, perceptrons",
+            "name": "gradient descent & stochastic gradient descent-*-8",
+            "color": "#fdca78",
+            "period": "2010_2012",
+            "sizess": 901,
+            "posx": 0.9016390782048621,
+            "posy": 0.888149218609829
+        },
+        {
+            "terms": "augmented phrase structure grammar, unification grammars, pushdown automaton, structure grammars, logistic regression, synchronous adaptor grammars, lexical-functional grammars",
+            "name": "synchronous adaptor grammars & logistic regression-*-0",
+            "color": "#fdca78",
+            "period": "1979_1988",
+            "sizess": 81,
+            "posx": 0.0,
+            "posy": 0.3562308567562047
+        },
+        {
+            "terms": "memorybased learning, nearest-neighbours, decision-tree, beam-search, TF-IDF, boosting algorithm, hierarchical clustering, hidden markov model, maximum-entropy, Yarowsky, singular-value decomposition, Cosine Similarity, information gain",
+            "name": "Cosine Similarity & boosting algorithm-*-4",
+            "color": "#fdca78",
+            "period": "1998_2000",
+            "sizess": 287,
+            "posx": 0.5081965713518314,
+            "posy": 0.3505585247240534
+        },
+        {
+            "terms": "Brown, constraint-propagation, constraint dependency grammar, context-free CKY, hidden markov model, dependency grammars, context-free parsing",
+            "name": "constraint dependency grammar & dependency grammars-*-1",
+            "color": "#c42c4b",
+            "period": "1989_1991",
+            "sizess": 35,
+            "posx": 0.21311469121205837,
+            "posy": 0.1599254734715003
+        },
+        {
+            "terms": "cubic-time, Earley algorithm, left-corner, lambek categorial grammars, contextfree grammars, unification grammars, pushdown automaton, cocke-younger-kasami, cky-like, context-free parsing, CKY-style, best-first",
+            "name": "left-corner & Earley algorithm-*-2",
+            "color": "#fdca78",
+            "period": "1992_1994",
+            "sizess": 198,
+            "posx": 0.311475317925316,
+            "posy": 0.2931947798182701
+        },
+        {
+            "terms": "Brown, hill-climbing, combinatory categorial grammars, neural networks, Baum-Welch, Log-likelihood ratio, decision-tree, generalized phrase structure grammars, categorial grammars, minimum description-length, decision-list, Local-Maxima, hidden markov model, maximal likelihood estimation, greedy search, probabilistic contextfree grammar, Yarowsky, Pattern Matching, information gain",
+            "name": "maximal likelihood estimation & neural networks-*-3",
+            "color": "#f57446",
+            "period": "1995_1997",
+            "sizess": 257,
+            "posx": 0.4098359446385737,
+            "posy": 0.15341950531063983
+        },
+        {
+            "terms": "BLEU, Bayesian model, ExpectationMaximization, minimumerror-rate training, ibm models, edit distance, log-linear, hidden markov model, maximal likelihood estimation, Gibbs sampling, srilm, inversion transduction grammars, kneser-ney smoothing",
+            "name": "log-linear & kneser-ney smoothing-*-8",
+            "color": "#fdca78",
+            "period": "2010_2012",
+            "sizess": 2883,
+            "posx": 0.9016390782048621,
+            "posy": 0.9628959165173646
+        },
+        {
+            "terms": "head-drive phrase structure grammar, functional unification grammars, categorial unification grammar, Hyperlink-Induced Topic Search, unification grammars, generalized phrase structure grammars, relaxation, Bag-of-Words, lexical-functional grammars, constraint logic grammars",
+            "name": "Bag-of-Words & Hyperlink-Induced Topic Search-*-1",
+            "color": "#fefebe",
+            "period": "1989_1991",
+            "sizess": 121,
+            "posx": 0.21311469121205837,
+            "posy": 0.12065626443888577
+        },
+        {
+            "terms": "nearest-neighbours, Brown, art, ExpectationMaximization, bootstrapping, dynamic-programming, relaxation, decision-tree, head-driven generation, probabilistic contextfree grammar, Local-Maxima, hidden markov model, maximal likelihood estimation, stochastic context free grammars, semantic grammars, definite-clause grammars, Yarowsky, singular-value decomposition, Pattern Matching, maximum-entropy",
+            "name": "ExpectationMaximization & maximal likelihood estimation-*-2",
+            "color": "#f57446",
+            "period": "1992_1994",
+            "sizess": 180,
+            "posx": 0.311475317925316,
+            "posy": 0.13626244963967274
+        },
+        {
+            "terms": "edit distance, ExpectationMaximization, bootstrapping, k-means, TF-IDF, decision-tree, naivebayes, self-training, support-vector machine, Latent Dirichlet Allocation, latent semantics analysis, boosting algorithm, logistic regression, graph-based, Bag-of-Words, Yarowsky, singular-value decomposition, Cosine Similarity, levenshtein distance, information gain",
+            "name": "k-means & support-vector machine-*-7",
+            "color": "#fdca78",
+            "period": "2007_2009",
+            "sizess": 2187,
+            "posx": 0.8032784514916045,
+            "posy": 0.9739661129026904
+        },
+        {
+            "terms": "generalised iterative scaling, Brown, Transformation-Based Learning, bootstrapping, Winnow, boosting algorithm, Iterative Scaling, Improved Iterative Scaling, maximum-entropy, greedy algorithm, Yarowsky, co-training",
+            "name": "generalised iterative scaling & Iterative Scaling-*-5",
+            "color": "#a1d9a4",
+            "period": "2001_2003",
+            "sizess": 301,
+            "posx": 0.606557198065089,
+            "posy": 0.3695984492692458
+        },
+        {
+            "terms": "tree traversal, cky-like, cocke-younger-kasami",
+            "name": "tree traversal & cky-like-*-0",
+            "color": "#ccea9d",
+            "period": "1979_1988",
+            "sizess": 19,
+            "posx": 0.0,
+            "posy": 0.04536856516533953
+        },
+        {
+            "terms": "BLEU, ExpectationMaximization, srilm, minimumerror-rate training, dynamic-programming, beam-search, probabilistic contextfree grammar, graph-based, Gibbs sampling, boosting algorithm, l-bfgs-b, log-linear, averaged structured perceptron, cocke-younger-kasami, relaxation, conditional random \ufb01elds, hidden markov model, perceptrons, kneser-ney smoothing, ibm models, integer linear program",
+            "name": "dynamic-programming & relaxation-*-9",
+            "color": "#fdca78",
+            "period": "2013_2015",
+            "sizess": 7452,
+            "posx": 0.9999997049181198,
+            "posy": 0.9351746809408856
+        }
+    ],
+    "metas": {
+        "min_year": 1983,
+        "minstre": 0.2880867425051594,
+        "max_year": 2014,
+        "maxstre": 0.7881248503951694,
+        "nb_ticks": 10
+    },
+    "links": [
+        {
+            "source": 11,
+            "target": 13,
+            "value": 0.730877612175346,
+            "shared": "BLEU, TreeAdjoining grammars, dynamic-programming, beam-search, inversion transduction grammars, contextfree grammars, log-linear, dependency grammars, maximal likelihood estimation, cocke-younger-kasami, polynomial-time, probabilistic contextfree grammar, ibm models, kneser-ney smoothing"
+        },
+        {
+            "source": 24,
+            "target": 23,
+            "value": 0.4471066995314371,
+            "shared": "conditional random \ufb01elds, gradient descent, perceptrons, l-bfgs-b"
+        },
+        {
+            "source": 20,
+            "target": 37,
+            "value": 0.571682419084188,
+            "shared": "bootstrapping, TF-IDF, naivebayes, support-vector machine, latent semantics analysis, Bag-of-Words, Yarowsky, singular-value decomposition, Cosine Similarity, information gain"
+        },
+        {
+            "source": 14,
+            "target": 17,
+            "value": 0.7881248503951694,
+            "shared": "Latent Dirichlet Allocation, bootstrapping, random walk, TF-IDF, decision-tree, naivebayes, support-vector machine, latent semantics analysis, logistic regression, Bag-of-Words, singular-value decomposition, Cosine Similarity"
+        },
+        {
+            "source": 28,
+            "target": 8,
+            "value": 0.31396745746671473,
+            "shared": "gradient descent, stochastic gradient descent"
+        },
+        {
+            "source": 34,
+            "target": 40,
+            "value": 0.5272534056775519,
+            "shared": "BLEU, ExpectationMaximization, minimumerror-rate training, ibm models, log-linear, srilm, Gibbs sampling, hidden markov model, kneser-ney smoothing"
+        },
+        {
+            "source": 28,
+            "target": 40,
+            "value": 0.35046515356110164,
+            "shared": "conditional random \ufb01elds, perceptrons, l-bfgs-b, relaxation"
+        },
+        {
+            "source": 23,
+            "target": 28,
+            "value": 0.6015757216641613,
+            "shared": "conditional random \ufb01elds, gradient descent, perceptrons, l-bfgs-b"
+        },
+        {
+            "source": 13,
+            "target": 3,
+            "value": 0.5622659671472227,
+            "shared": "TreeAdjoining grammars, synchronous context-free grammars, dynamic-programming, beam-search, contextfree grammars, k-best, cocke-younger-kasami, polynomial-time, probabilistic contextfree grammar"
+        },
+        {
+            "source": 37,
+            "target": 14,
+            "value": 0.7176555608770779,
+            "shared": "Latent Dirichlet Allocation, bootstrapping, graph-based, TF-IDF, decision-tree, naivebayes, self-training, support-vector machine, latent semantics analysis, logistic regression, Bag-of-Words, singular-value decomposition, Cosine Similarity"
+        },
+        {
+            "source": 13,
+            "target": 34,
+            "value": 0.5543465044948463,
+            "shared": "BLEU, Bayesian model, minimumerror-rate training, inversion transduction grammars, log-linear, srilm, maximal likelihood estimation, Gibbs sampling, ibm models, kneser-ney smoothing"
+        },
+        {
+            "source": 2,
+            "target": 21,
+            "value": 0.39825512920314665,
+            "shared": "polynomial-time, contextfree grammars, dependency grammars, cocke-younger-kasami, unification grammars"
+        },
+        {
+            "source": 15,
+            "target": 31,
+            "value": 0.2909777833581938,
+            "shared": "dependency grammars, context-free parsing"
+        },
+        {
+            "source": 25,
+            "target": 22,
+            "value": 0.35355339059327373,
+            "shared": "henceforth Hobbs"
+        },
+        {
+            "source": 18,
+            "target": 12,
+            "value": 0.38820842916318965,
+            "shared": "combinatory categorial grammars, classical categorial grammars, linear indexed grammar, polynomial-time"
+        },
+        {
+            "source": 29,
+            "target": 5,
+            "value": 0.40514222485526696,
+            "shared": "pushdown automaton, structure grammars, logistic regression, augmented phrase structure grammar"
+        },
+        {
+            "source": 19,
+            "target": 24,
+            "value": 0.2880867425051594,
+            "shared": "edit distance, gradient descent, C4.5, decision-tree"
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "value": 0.41117034235105154,
+            "shared": "memorybased learning, nearest-neighbours, neural networks, naivebayes, support-vector machine, Bag-of-Words, Cosine Similarity"
+        },
+        {
+            "source": 26,
+            "target": 11,
+            "value": 0.5294558218629936,
+            "shared": "head-drive phrase structure grammar, dynamic-programming, ibm models, contextfree grammars, TreeAdjoining grammars, dependency grammars, cocke-younger-kasami, polynomial-time"
+        },
+        {
+            "source": 6,
+            "target": 11,
+            "value": 0.38539247377054586,
+            "shared": "ExpectationMaximization, beam-search, log-linear, hidden markov model, maximal likelihood estimation, probabilistic contextfree grammar"
+        },
+        {
+            "source": 21,
+            "target": 6,
+            "value": 0.34987987694623146,
+            "shared": "best-first, unification grammars, log-linear, maximal likelihood estimation, probabilistic contextfree grammar, ExpectationMaximization"
+        },
+        {
+            "source": 21,
+            "target": 26,
+            "value": 0.5508096743975117,
+            "shared": "head-drive phrase structure grammar, dynamic-programming, contextfree grammars, categorial grammars, TreeAdjoining grammars, dependency grammars, cocke-younger-kasami, polynomial-time"
+        },
+        {
+            "source": 30,
+            "target": 19,
+            "value": 0.33508688900877637,
+            "shared": "memorybased learning, nearest-neighbours, Cosine Similarity, decision-tree"
+        },
+        {
+            "source": 9,
+            "target": 19,
+            "value": 0.33508688900877637,
+            "shared": "C4.5, neural networks, naivebayes"
+        },
+        {
+            "source": 1,
+            "target": 16,
+            "value": 0.309145946815366,
+            "shared": "categorial grammars, head grammars"
+        },
+        {
+            "source": 5,
+            "target": 32,
+            "value": 0.3058351810777631,
+            "shared": "pushdown automaton, contextfree grammars, Earley algorithm"
+        },
+        {
+            "source": 12,
+            "target": 32,
+            "value": 0.3058351810777631,
+            "shared": "CKY-style, cocke-younger-kasami"
+        },
+        {
+            "source": 32,
+            "target": 2,
+            "value": 0.4650676099854699,
+            "shared": "contextfree grammars, Earley algorithm, cocke-younger-kasami, unification grammars"
+        },
+        {
+            "source": 36,
+            "target": 33,
+            "value": 0.43650426331195313,
+            "shared": "Brown, decision-tree, Local-Maxima, hidden markov model, maximal likelihood estimation, probabilistic contextfree grammar, Yarowsky, Pattern Matching"
+        }
+    ]
+}
