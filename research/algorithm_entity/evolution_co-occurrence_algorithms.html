@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+  <script src="https://labeleditor.cortext.net/svg_postmessage.js"></script>
+  <title>Evolution of co-occurrence algorithm in ACL from 1979 to 2015</title>
+<style>
+
+@import url(lib/style.css?20120521);
+
+#chart {
+  height: 600px;
+}
+
+.node rect {
+  cursor: move;
+  fill-opacity: .8;
+  shape-rendering: crispEdges;
+
+}
+
+.node text {
+  pointer-events: none;
+  /*text-shadow: 0 1px 0 #fff;*/
+}
+
+/*.link {
+  fill: #000;
+  opacity: .2;
+  stroke: #fff;
+  stroke-opacity: 0.;
+}
+*/
+.link {
+  fill: #000;
+  /*opacity: .1;*/
+  stroke: #f00;
+  stroke-opacity: .9;
+}
+
+
+.link:hover {
+  opacity: .5;
+}
+
+path.line {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+path.area {
+  fill: #e7e7e7;
+}
+
+.axis {
+  shape-rendering: crispEdges;
+}
+
+.x.axis line {
+  stroke: #000;
+  stroke-opacity: .2;
+}
+
+.x.axis .minor {
+  stroke-opacity: .5;
+}
+
+.x.axis path {
+  display: none;
+}
+
+</style>
+</head>
+<body>
+
+<header>
+  <!-- <aside>May 22, 2012</aside> -->
+  <!-- <a href="../" rel="author">Mike Bostock</a> -->
+</header>
+
+<h1><a>Evolution of co-occurrence algorithm in ACL from 1979 to 2015</a></h1>
+
+<p id="chart"></p>
+
+<div style="margin: 0.5rem;">
+  <a id="svg-editor-link" style="
+        color:#FFFFFF;
+        text-align: center;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        padding-top: 0.25rem;
+        background:#48bb78;
+        border: 1px solid #2f855a;
+        border-radius: 0.25rem;
+        cursor: pointer;
+        /*! margin: 0.5rem; */
+        white-space: nowrap;
+      ">
+    Edit labels
+  </a>
+</div>
+
+
+<!-- <aside>Drag to rearrange nodes.</aside> -->
+
+<!-- <p class="attribution">Source: <a href="http://www.decc.gov.uk/en/content/cms/tackling/2050/calculator_on/calculator_on.aspx">Department of Energy & Climate Change</a>, <a href="http://tamc.github.com/Sankey/">Tom Counsell</a>.
+
+<aside>Sankey diagrams are closely related to <a href="http://en.wikipedia.org/wiki/Alluvial_diagram">alluvial diagrams</a>, which show how network structure changes over time.</aside>
+
+<p><a href="http://en.wikipedia.org/wiki/Sankey_diagram">Sankey diagrams</a> visualize the magnitude of flow between nodes in a network. This intricate diagram shows a possible scenario for UK energy production and consumption in 2050: energy <b>supplies</b> are on the left, and <b>demands</b> are on the right. Intermediate nodes group related forms of production and show how energy is converted and transmitted before it is consumed (or lost!). The thickness of each link encodes the amount of flow from source to target.
+-->
+
+<!-- <footer>
+  <aside>May 22, 2012</aside>
+  <a href="../" rel="author">Mike Bostock</a>
+</footer>
+ -->
+<script src="lib/d3.v2.min.js?2.9.1"></script>
+<script src="lib/sankey.js"></script>
+<script>
+
+
+
+try {
+	var term = location.search.split('?term=')[1].replace('%20'," ")
+	document.write(term);}
+catch(err)
+	{
+	var term='dqdqsdsqdsq';
+	}
+
+
+
+var margin = {top: 20, right: 20, bottom: 20, left: 20},
+	totalwidth=1100,
+	totalheight=600,
+	nodewidth=15,
+    width = totalwidth - margin.left - margin.right,
+    height = totalheight - margin.top - margin.bottom;
+
+var formatNumber = d3.format(",.0f"),
+    format = function(d) { return formatNumber(d) + " records"; },
+    color = d3.scale.category20();
+
+var formatNumberstrength = d3.format(",.2f"),
+    format = function(d) { return formatNumber(d) ; },
+    color = d3.scale.category20();
+
+
+// var x = d3.scale.linear().range([0+nodewidth/2, width-nodewidth/2]).domain([-100, 10]);
+
+// var xAxis = d3.svg.axis().scale(x).ticks(7+1).tickSize(height).orient("top");
+	
+var sankey = d3.sankey()
+    .nodeWidth(nodewidth)
+    .nodePadding(10)
+    .size([width, height]);
+
+var path = sankey.link();
+
+var minx;
+var maxx;
+
+
+//d3.json("http://public.iscpif.fr/~cointet/energy.json", function(energy) {	
+d3.json("data/energy.json", function(energy) {	
+	metas= energy.metas;
+    minx = energy.metas.min_year;
+	maxx = energy.metas.max_year;
+	ticksnb = energy.metas.nb_ticks;
+	var minstre = energy.metas.minstre;
+	var maxstre = energy.metas.maxstre;
+	var deltastre=maxstre-minstre;
+	sankey
+      .nodes(energy.nodes)
+      .links(energy.links)
+      .layout(32);
+
+  var link = svg.append("g").selectAll(".link")
+      .data(energy.links)
+      .enter().append("path")
+      .attr("class", "link")
+      .attr("d", path)
+      .style("stroke-width", function(d) { return 1;})//Math.min(10, d.dy); })
+	  .style("opacity",function(d) { return (d.value - minstre)/(deltastre+0.2) / 2.3 +.05;})
+      .sort(function(a, b) { return b.dy - a.dy; })
+	  .on("mouseover", function(){d3.select(this).style("opacity", .5);})
+	  .on("mouseout", function(d){d3.select(this).style("opacity",  (d.value - minstre)/(deltastre+0.2) / 2 +.1);});
+      link.append("title")
+      .text(function(d) { return d.source.name.split('-*-')[0] + "("+d.source.period + ")’ " + d.target.name.split('-*-')[0] + " ("+d.target.period + ")\nstrength: " + formatNumberstrength(d.value) + '\n' + 'shared:' + d.shared; })
+
+  var node = svg.append("g").selectAll(".node")
+	  .data(energy.nodes)
+      .enter().append("g")
+      .attr("class", "node")
+      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+      .call(d3.behavior.drag()
+      .origin(function(d) { return d; })
+      .on("dragstart", function() { this.parentNode.appendChild(this); })
+      .on("drag", dragmove));
+	  
+  	node.append("rect")
+      .attr("height", function(d) { return d.dy; })
+      .attr("width", sankey.nodeWidth())
+  	  .attr('rx',1)
+  	  .attr('ry',1)
+      .style("fill", function(d) { return d.color;})// = color(d.name.replace(/ .*/, "")); })
+  	  .style("opacity", 0.8)
+	  .style('stroke', "#000001")
+      .style("stroke-width", function(d) {  if (d.terms.search(term)>-1)  {return 5;} else {return 1;}} )
+      .append("title")
+      .text(function(d) { return d.name.split('-*-')[0] + "\n"+'period:'+d.period+ "\n" + formatNumber(d.value) + ' records' + "\n" + 'Terms:'+d.terms; });
+
+    node.append("text")
+      .attr("x", -6)
+      .attr("y", function(d) { return d.dy / 2; })
+      .attr("dy", ".35em")
+      .attr("text-anchor", "end")
+      .attr("transform", null)
+      .text(function(d) { return d.name.split('-*-')[0];})
+      .filter(function(d) { return d.x < width / 2; })
+      .attr("x", 6 + sankey.nodeWidth())
+      .attr("text-anchor", "start");
+
+  var x = d3.scale.linear().range([0+nodewidth/2, width-nodewidth/2]).domain([minx, maxx]);
+
+  var xAxis = d3.svg.axis().scale(x).ticks(ticksnb*2).tickSize(height).orient("top");
+
+  svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(0," + height + ")")
+    .call(xAxis);
+
+  function dragmove(d) {
+    d3.select(this).attr("transform", "translate(" + d.x + "," + (d.y = Math.max(0, Math.min(height - d.dy, d3.event.y))) + ")");
+    sankey.relayout();
+    link.attr("d", path);}
+
+});
+
+var svg = d3.select("#chart").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+</script>
