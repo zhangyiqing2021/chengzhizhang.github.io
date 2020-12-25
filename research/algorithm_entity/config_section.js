@@ -5,11 +5,11 @@ var CONFIG = {
   "lastModified": 1608866356814,
   "nameColumnPosition": 0,
   "noCache": true,
-  "path": "./data/evolution_section_type",
+  "path": "./data/evolution_section_type.xlsx",
   "reader": "excel",
   "sheet": "Sheet1",
   "timeInColumns": false,
-  "ddfPath": "./data/evolution_section_type"
+  "ddfPath": "./data/evolution_section_type.xlsx"
  },
  "locale": {
   "filePath": "svm/assets/translation/",
