@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Section Distribution of different Algorithm Types£¨1979~2015£©</title>
+    <script src="https://cdn.staticfile.org/echarts/4.3.0/echarts.min.js"></script>
+    <meta charset="utf-8">
+</head>
+<body style="width: 1800px;">
+<div id="main" style="width: 1500px;height:1000px; margin: 0 auto"></div>
+</body>
+<script type="text/javascript">
+var myChart = echarts.init(document.getElementById('main'));
+
+var hours = ['','Abstract', 'Introduction', 'Related work', 'Method', 'Evaluation', 'Result', 'Evaluation and result', 'Conclusion', 'Other'];
+var days = ['Unique algorithms in nlp domain', 'Search algorithm', 'Regression algorithm', 'Probabilistic graphical models', 'Other', 'Optimization algorithm', 'Neural networks', 'Metric algorithm', 'Link analysis algorithms', 'Integrated learning algorithm', 'Grammar', 'Dimension reduction algorithm', 'Clustering algorithm', 'Classification algorithm'];
+var data = [[13, 1, 249], [13, 2, 496], [13, 3, 450], [13, 4, 1171], [13, 5, 153], [13, 6, 195], [13, 7, 895], [13, 8, 270], [13, 9, 96], [12, 1, 24], [12, 2, 53], [12, 3, 52], [12, 4, 202], [12, 5, 14], [12, 6, 10], [12, 7, 89], [12, 8, 23], [12, 9, 5], [11, 1, 1], [11, 2, 14], [11, 3, 18], [11, 4, 69], [11, 5, 10], [11, 6, 8], [11, 7, 25], [11, 8, 7], [11, 9, 1], [10, 1, 283], [10, 2, 660], [10, 3, 172], [10, 4, 790], [10, 5, 44], [10, 6, 106], [10, 7, 190], [10, 8, 201], [10, 9, 48], [9, 1, 55], [9, 2, 94], [9, 3, 94], [9, 4, 112], [9, 5, 10], [9, 6, 23], [9, 7, 83], [9, 8, 72], [9, 9, 11], [8, 1, 17], [8, 2, 22], [8, 3, 24], [8, 4, 105], [8, 5, 8], [8, 6, 16], [8, 7, 53], [8, 8, 20], [8, 9, 9], [7, 1, 213], [7, 2, 263], [7, 3, 159], [7, 4, 680], [7, 5, 119], [7, 6, 158], [7, 7, 670], [7, 8, 206], [7, 9, 47], [6, 1, 116], [6, 2, 207], [6, 3, 162], [6, 4, 342], [6, 5, 47], [6, 6, 53], [6, 7, 226], [6, 8, 111], [6, 9, 18], [5, 1, 162], [5, 2, 370], [5, 3, 221], [5, 4, 1116], [5, 5, 106], [5, 6, 85], [5, 7, 562], [5, 8, 165], [5, 9, 36], [4, 1, 59], [4, 2, 115], [4, 3, 66], [4, 4, 235], [4, 5, 20], [4, 6, 48], [4, 7, 130], [4, 8, 64], [4, 9, 17], [3, 1, 152], [3, 2, 343], [3, 3, 301], [3, 4, 639], [3, 5, 72], [3, 6, 123], [3, 7, 413], [3, 8, 158], [3, 9, 38], [2, 1, 10], [2, 2, 29], [2, 3, 28], [2, 4, 111], [2, 5, 17], [2, 6, 27], [2, 7, 108], [2, 8, 10], [2, 9, 10], [1, 1, 34], [1, 2, 60], [1, 3, 45], [1, 4, 216], [1, 5, 9], [1, 6, 18], [1, 7, 93], [1, 8, 30], [1, 9, 13], [0, 1, 31], [0, 2, 112], [0, 3, 80], [0, 4, 203], [0, 5, 22], [0, 6, 20], [0, 7, 80], [0, 8, 32], [0, 9, 9]];
+data = data.map(function (item) {
+    return [item[1], item[0], item[2]];
+});
+
+option = {
+    title: {
+        text: 'Type Distribution of different Algorithm Types (1979~2015)',
+    },
+    legend: {
+        data: ['Number'],
+        left: 'right'
+    },
+    tooltip: {
+        position: 'top',
+        formatter: function (params) {
+            return days[params.value[1]] +' is mentioned in '+  hours[params.value[0]] +' '+ +params.value[2] + ' times.' ;
+        }
+    },
+    grid: {
+        left: 50,
+        bottom: 10,
+        right: 50,
+        containLabel: true
+    },
+    xAxis: {
+        type: 'category',
+        data: hours,
+        boundaryGap: false,
+        splitLine: {
+            show: true,
+            lineStyle: {
+                color: '#999',
+                type: 'dashed'
+            }
+        }, 
+        axisLine: {
+            show: false
+        },
+        axisLabel: {  
+            show: true,
+            fontWeight: 'bold',
+            fontSize: 16,
+            rotate: 30, 
+            interval: 0,
+            margin: 20,
+            fontFamily: 'Times New Roman' 
+        },
+    },
+    yAxis: {
+        type: 'category',
+        data: days,
+        left: 50,
+        bottom: 50,
+        axisLine: {
+            show: false
+        },
+        axisLabel: {  
+            interval:0, 
+            fontWeight: 'bold',
+            fontSize: 16,
+            margin: 10, 
+            interval: 0,
+            fontFamily: 'Times New Roman'
+            // rotate: 40  
+        },
+    },
+    series: [{
+        name: 'Number',
+        type: 'scatter',
+        itemStyle: {
+            normal: {
+                color: function(params) {
+                    var colorList = ['#00FFFF','#6A5ACD','#00FA9A', '#0000CD', '#FF4500', '#7CFC00', '#00BFFF','#FF00FF',
+                    '#9932CC','#0000FF'];
+                    index = parseInt(params.dataIndex/hours.length)%colorList.length;
+                    return colorList[index];
+                }
+            }
+        },
+        symbolSize: function (val) {
+            return val[2] * 0.08;
+        },
+        data: data,
+        animationDelay: function (idx) {
+            return idx * 10;
+        }
+    }]
+};
+ myChart.setOption(option);
+</script>
+</html>
+
+
+
