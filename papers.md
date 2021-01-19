@@ -7,8 +7,9 @@ order:  3
 ---
  (*=corresponding author)
 ## 2021
-* [J40] Yingyi Zhang, Chengzhi Zhang\*. Enhancing Keyphrase Extraction from Microblogs using Human Reading Time. ***Journal of the Association for Information Science and Technology***, 2021. (in press) [[doi]](http://doi.org/10.1002/asi.24430)  [[arxiv]](https://arxiv.org/abs/2010.09934)
-* [J39] Chengzhi Zhang, Lifan Liu, Yuzhuo Wang. Characterizing References from Different Disciplines: A Perspective of Citation Content Analysis. ***Journal of Informetrics***, 2021. (in press) [[doi]]
+* [J41] Yingyi Zhang, Chengzhi Zhang\*. Enhancing Keyphrase Extraction from Microblogs using Human Reading Time. ***Journal of the Association for Information Science and Technology***, 2021. (in press) [[doi]](http://doi.org/10.1002/asi.24430)  [[arxiv]](https://arxiv.org/abs/2010.09934)
+* [J40] Chengzhi Zhang, Lifan Liu, Yuzhuo Wang. Characterizing References from Different Disciplines: A Perspective of Citation Content Analysis. ***Journal of Informetrics***, 2021. (in press) [[doi]]
+* [J39] Shutian Ma, Heng Zhang, Chengzhi Zhang\*, Xiaozhong Liu. Chronological Citation Recommendation with Time Preference. ***Scientometrics***. (in press) [[doi]]
 * [J38] Heng Zhang, Chengzhi Zhang\*. Using Full-text Content of Academic Articles to Build a Methodology Taxonomy of Information Science in China. ***Knowledge Organization***, 2021. (in press) [[doi]] [[Demo: Methodology Taxonomy of Information Science in China](https://chengzhizhang.github.io/research/methodology_taxonomy/mtis.html)]
 * [J37] Yi Zhao, Haixu Xi, Chengzhi Zhang\*. Exploration of Occupation Differences in Reactions to COVID-19 Pandemic on Twitter. ***Data and Information Management***, 2021, 5(1): 110-118. [[doi]](https://doi.org/10.2478/dim-2020-0032) [[video]](https://chengzhizhang.github.io/research/video/ASIST-APR-Zhao.mp4)
 * [J36] Bowen Ma, Chengzhi Zhang\*, Yuzhuo Wang. Exploring Significant Characteristics and Models for Classification of Structure Function of Academic Documents. ***Data and Information Management***, 2021, 5(1): 65-74.  [[doi]](https://doi.org/10.2478/dim-2020-0031) [[video]](https://chengzhizhang.github.io/research/video/ASIST-APR-2021.mp4)
