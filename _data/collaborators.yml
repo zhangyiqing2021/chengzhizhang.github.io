@@ -1,9 +1,5 @@
 phd-students-first:
   -
-    name: Shuitan Ma
-    url: http://shutian.me/
-    tagline: Citaion recomendattion, Document clustering.
-  -
     name: Yingyi Zhang
     url: https://www.researchgate.net/profile/Zhang_Yingyi2 
     tagline: Keyphrase extraction, Entity extraction and relation discovery.
@@ -33,27 +29,33 @@ phd-students-first:
 project-students:
 former-phd:
   -
+    name: Shuitan Ma
+    url: http://shutian.me/
+    tagline: "PhD 2020, now: Engineer at Tencent Inc., China."
+    description: >
+      Phd Thesis: Citation Recommendation based on Citing Time Preference and Argumentative Zoning of User Query.
+  -
     name: Chao Lu
     url: https://luchao1991.github.io/
-    tagline: "PhD 2019, now Assistant Professor at  Hohai University."
+    tagline: "PhD 2019, now: Assistant Professor at  Hohai University."
     description: >
       Phd Thesis: Identifying Content Features of Domain Emerging Topics and its Application.
   -
     name: Qingqing Zhou
     url: https://www.researchgate.net/profile/Qingqing_Zhou8
-    tagline: "PhD 2018, now Assistant Professor at Nanjing Normal University."
+    tagline: "PhD 2018, now: Assistant Professor at Nanjing Normal University."
     description: >
       Phd Thesis: Book Impact Assessment Based on Multi-source Heterogeneous Data.
   -
     name: Xiaolan Wu
     url: https://www.researchgate.net/profile/Wu_Lan3
-    tagline: "PhD 2018, now Assistant Professor at Nanjing Normal University."
+    tagline: "PhD 2018, now: Associate Professor at Nanjing Normal University."
     description: >
       Phd Thesis: Finding Interdisciplinary Users on Social Media and its Application.
   -
     name: Lei Li
     url: https://www.researchgate.net/profile/Lei_Li68
-    tagline: "PhD 2018, now Assistant Professor at Beijing Normal University."
+    tagline: "PhD 2018, now: Assistant Professor at Beijing Normal University."
     description: >
       Phd Thesis: Research on Answer Quality Judgement on Academic Social Q&A Sites.
       
