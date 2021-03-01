@@ -6,8 +6,8 @@ menu:   true
 order:  6
 ---
 ## Faculty
-* [Chengzhi Zhang](https://chengzhizhang.github.io/), professor at ischoool of NJUST and his esearch interests include information retrieval, information organization, text mining and nature language processing.
-* [Guo Chen](https://www.researchgate.net/profile/Guo_Chen13) , associate professor at ischoool of NJUST and his research interests include knowledge organization, text mining and nature language processing.
+* [Chengzhi Zhang](https://chengzhizhang.github.io/), professor at ischool of NJUST and his esearch interests include information retrieval, information organization, text mining and nature language processing.
+* [Guo Chen](https://www.researchgate.net/profile/Guo_Chen13) , associate professor at ischool of NJUST and his research interests include knowledge organization, text mining and nature language processing.
 
 ## Students
 ### PhD students
