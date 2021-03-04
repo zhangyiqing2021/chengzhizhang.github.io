@@ -7,7 +7,7 @@ order:  3
 ---
  (*=corresponding author)
 ## 2021
-* [P2] Yi Zhang, Chengzhi Zhang, Philipp Mayr, and Arho Suominen. Proceedings of the 1st Workshop on AI + Informetrics (AII2021). co-located with the iConference2021, Virtual Event, China, March 17, 2020. [Proceedings]()
+* [P2] Yi Zhang, Chengzhi Zhang, Philipp Mayr, and Arho Suominen. Proceedings of the 1st Workshop on AI + Informetrics (AII2021). co-located with the iConference2021, Virtual Event, China, March 17, 2020. [[Proceedings]]()
 * [J42] Yingyi Zhang, Chengzhi Zhang\*. Enhancing Keyphrase Extraction from Microblogs using Human Reading Time. ***Journal of the Association for Information Science and Technology***, 2021. (in press) [[doi]](http://doi.org/10.1002/asi.24430)  [[arxiv]](https://arxiv.org/abs/2010.09934)
 * [J41] Chengzhi Zhang, Lifan Liu, Yuzhuo Wang. Characterizing References from Different Disciplines: A Perspective of Citation Content Analysis. ***Journal of Informetrics***, 2021, 15(2):101134. [[doi]](https://doi.org/10.1016/j.joi.2021.101134)  [[arxiv]](https://arxiv.org/abs/2101.07614)
 * [J40] Shutian Ma, Heng Zhang, Chengzhi Zhang\*, Xiaozhong Liu. Chronological Citation Recommendation with Time Preference. ***Scientometrics***. (in press) [[doi]](https://doi.org/10.1007/s11192-021-03878-2)  [[arxiv]](https://arxiv.org/abs/2101.07609)
