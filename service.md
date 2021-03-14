@@ -18,7 +18,7 @@ order:  5
 
 ## Program Committee Member 
 
-* ***IS fiel***: ASIS&T, JCDL, iConference, ISSI, STI, GTM, SDP, ICEBE, COINFO, etc.
+* ***IS field***: ASIS&T, JCDL, iConference, ISSI, STI, GTM, SDP, ICEBE, COINFO, etc.
 * ***NLP field***: IJCAI, ACL, EMNLP, NAACL, AACL, IJCNLP, NLPCC, SMP, CCIR, NLPOE, IWWIP, etc.
 
 ## Editorial Board Member 
