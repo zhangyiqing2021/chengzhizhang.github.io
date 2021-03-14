@@ -22,7 +22,7 @@ order:  5
 * NLP field: IJCAI, ACL, EMNLP, NAACL, AACL, IJCNLP, NLPCC, SMP, CCIR, NLPOE, IWWIP, etc.
 
 ## Editorial Board Member 
-* Guest Editors: The Electronic Library, Information Discovery and Delivery, Journal of Natural Language Engineering (JNLE), Journal of Data and Information Science (JDIS), Data and Information Management (DIM)
+* Guest Editors: Scientometrics, The Electronic Library, Information Discovery and Delivery, Journal of Natural Language Engineering (JNLE), Journal of Data and Information Science (JDIS), Data and Information Management (DIM)
 * Editorial Board Member: Patterns, Online Information Review, The Electronic Library, Information Discovery and Delivery, Frontiers in Research Metrics and Analytics, Data Intelligence, International Journal of Knowledge Content Development and Technology, Data Science and Informetrics
 
 
