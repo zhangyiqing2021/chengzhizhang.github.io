@@ -9,7 +9,7 @@ I am a professor at [iSchool](http://ischool.njust.edu.cn/) of Nanjing Universit
 My research fields include information retrieval, information organization, text mining and nature language processing. Currently, I am focusing on [scientific text mining](https://chengzhizhang.github.io/research/#scientific-text-mining), [knowledge entity extraction and evaluation](https://chengzhizhang.github.io/research/#knowledge-entity-extraction-and-evaluation
 ),[social media mining](https://chengzhizhang.github.io/research/#social-media-mining). 
 
-I am also a visiting scholar in the [School of Computing and Information](https://www.sci.pitt.edu/) at the [University of Pittsburgh](http://www.pitt.edu/) and in the [Department of Linguistics and Translation](http://lt.cityu.edu.hk/) at the [City University of Hong Kong](https://www.cityu.edu.hk/).
+I was a visiting scholar in the [School of Computing and Information](https://www.sci.pitt.edu/) at the [University of Pittsburgh](http://www.pitt.edu/) and in the [Department of Linguistics and Translation](http://lt.cityu.edu.hk/) at the [City University of Hong Kong](https://www.cityu.edu.hk/).
 
 I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/) at NJUST.
 
