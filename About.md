@@ -21,7 +21,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 * In January 2021, a paper has been accepted by Journal of Informetrics. [[doi]](https://doi.org/10.1016/j.joi.2021.101134)  [[arxiv]](https://arxiv.org/abs/2101.07614)
 * In October 2020, a paper has been accepted by Journal of the Association for Information Science and Technology. [[doi]](http://doi.org/10.1002/asi.24430)  [[arxiv]](https://arxiv.org/abs/2010.09934)
 * Call for Paper: Special issue about "Extraction and Evaluation of Knowledge Entities from Scientific Documents" at [JDIS](http://manu47.magtech.com.cn/Jwk3_jdis/EN/news/news1.shtml)(Note: when submit, please put a note "EEKE2020" at the beginning of title).
-* Call for Paper: Special issue about 'Scientific Documents Mining and Applicatons' at [DIM](https://www.editorialmanager.com/dim/default.aspx) (Note: when submit, please put a note “EEKE2020" at the beginning of title).
+* Call for Paper: Special issue about 'Scientific Documents Mining and Applications' at [DIM](https://www.editorialmanager.com/dim/default.aspx) (Note: when submit, please put a note “EEKE2020" at the beginning of title).
 * In August 2020, the workshop proceedings of [EEKE2020](https://eeke2020.github.io/) are published now and you can see at [CEUR](http://ceur-ws.org/Vol-2658/).
 * In August 2020, a paper has been accepted by Journal of Informetrics. [[doi]](https://doi.org/10.1016/j.joi.2020.101091)   [[Demo: Algorithm Influence in NLP (1979~2015)]](https://chengzhizhang.github.io/research/algorithm_entity/algorithm_influence.html)   [[Video](https://chengzhizhang.github.io/research/algorithm_entity/video.html)]
 
