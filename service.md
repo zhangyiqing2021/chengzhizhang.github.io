@@ -6,7 +6,7 @@ menu:   true
 order:  5
 ---
 ##  Co-Chair
-* Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2020](https://eeke2020.github.io/)).
+* Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2020](https://eeke2020.github.io/)), ([EEKE2021](https://eeke-workshop.github.io/2021/)).
 * Workshop on AI + Informetrics: Multi-disciplinary Interactions in the Era of Big Data ([AII2021](https://ai-informetrics.github.io/)).
 
 
