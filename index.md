@@ -13,6 +13,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 
  
 ## Recent News
+* Call for Paper: The 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2021](https://eeke-workshop.github.io/2021/)) to be held as a virtual event as part of the JCDL2021
 * Call for Paper: Special issue about "AI + Informetrics" at [Scientometrics](https://link.springer.com/collections/ebfiegeiie)
 * In April 2021, a paper has been accepted by Journal of Informetrics.[[doi]](https://doi.org/10.1016/j.joi.2021.101162)  [[arxiv]](https://arxiv.org/abs/2104.05409)
 * Call for Paper: The 1st Workshop on AI + Informetrics ([AII2021](https://ai-informetrics.github.io/)) to be held as a virtual event as part of the iConference2021
