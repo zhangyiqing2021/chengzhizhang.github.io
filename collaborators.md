@@ -18,11 +18,11 @@ order:  6
 {% include collaborator.html people=page.project-students show=false %}
 -->
 ### Master students
-* Liang Tian, MSc 2020
-* Lei Zhao, MSc 2020
-* Yuxin Xie, MSc 2019
-* Yuntian Song, MSc 2019
-* Minghui Meng, MSc 2019
+* Liang Tian, 2020
+* Lei Zhao, 2020
+* Yuxin Xie, 2019
+* Yuntian Song, 2019
+* Minghui Meng, 2019
 
 
 ## Alumni
