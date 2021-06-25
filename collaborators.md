@@ -23,9 +23,7 @@ order:  6
 * Yuxin Xie, MSc 2019
 * Yuntian Song, MSc 2019
 * Minghui Meng, MSc 2019
-* Ruping Wang, MSc 2018
-* Lifan Liu, MSc 2018
-* Shaohu Hu, MSc 2018
+
 
 ## Alumni
 ### PhD
@@ -35,6 +33,9 @@ order:  6
 <!--{
 % include collaborator.html people=site.data.collaborators.former-masters %}
 -->
+* Ruping Wang, MSc 2021, master thesis: Methodological Sentences Recognition and Automatic Summarization Based upon Full-text of Academic Articles
+* Lifan Liu, MSc 2021, master thesis: Interdisciplinary Knowledge Flow based on Citation Content
+* Shaohu Hu, MSc 2021, master thesis: Text Keyword Extraction Based on Eye-tracking Data
 * Jin Xu, MSc 2020, master thesis: Automatic Identification of Cited Spans and Classification of Citation Type in Academic Articles.
 * Ruiyi Ding, MSc 2020, master thesis：Mention Behavior and Influence Analysis of Algorithm Based on Full-text Content of Academic Articles.
 * Tiantian Tong，MSc 2019, master thesis: Automatic Summarization of Book Review Based on Multi Source. 
