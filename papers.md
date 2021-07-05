@@ -7,7 +7,7 @@ order:  3
 ---
  (*=corresponding author)
 ## 2021
-* [P2] Yi Zhang, Chengzhi Zhang, Philipp Mayr, and Arho Suominen. ***Proceedings of the 1st Workshop on AI + Informetrics (AII2021)***. co-located with the iConference2021, Virtual Event, China, March 17, 2021. [[Proceedings]](http://ceur-ws.org/Vol-2871/)
+* [P2] Yi Zhang, Chengzhi Zhang, Philipp Mayr, and Arho Suominen. ***Proceedings of the 1st Workshop on AI + Informetrics (AII2021)***. co-located with the iConference2021, Virtual Event, China, March 17, 2021. [[Proceedings]](http://ceur-ws.org/Vol-2871/) [[DBLP]](https://dblp.org/db/conf/iconference/aii2021.html)
 * [J47] Chengzhi Zhang, Lifan Liu, Yuzhuo Wang. Characterizing References from Different Disciplines: A Perspective of Citation Content Analysis. ***Journal of Informetrics***, 2021, 15(2):101134. [[doi]](https://doi.org/10.1016/j.joi.2021.101134)  [[arxiv]](https://arxiv.org/abs/2101.07614)
 * [J46] Yingyi Zhang, Chengzhi Zhang\*. Enhancing Keyphrase Extraction from Microblogs using Human Reading Time. ***Journal of the Association for Information Science and Technology***, 2021, 72(5): 611-626. [[doi]](http://doi.org/10.1002/asi.24430)  [[arxiv]](https://arxiv.org/abs/2010.09934)
 * [J45] Qingqing Zhou, Chengzhi Zhang\*. Breaking Community Boundary: Comparing Academic and Social Communication Preferences regarding Global Pandemics. ***Journal of Informetrics***, 2021. 15(3): 101162. [[doi]](https://doi.org/10.1016/j.joi.2021.101162)  [[arxiv]](https://arxiv.org/abs/2104.05409)
