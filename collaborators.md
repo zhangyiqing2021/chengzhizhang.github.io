@@ -18,6 +18,14 @@ order:  6
 {% include collaborator.html people=page.project-students show=false %}
 -->
 ### Master students
+* Xinlong Chu, 2021
+* Xinyi Yan, 2021
+* Siqi Wei, 2021
+* Shuyu Peng, 2021
+* Zile Hu, 2021
+* Wenqi Yu, 2021
+* Yukai Yang, 2021
+* Haochuan Li, 2021
 * Liang Tian, 2020
 * Lei Zhao, 2020
 * Yuxin Xie, 2019
