@@ -9,10 +9,12 @@
     <body style="height: 100%; margin: 0;">
         <br>
     <div id="container" style="height: 90%;"></div>
-    <br>
-     <p style="margin:auto;top:20px;left:50px;right:50px;bottom:50px;width:70%";  align="center">Chengzhi Zhang, Liang Tian, Heting Chu. Usage Frequency and Application Variety of Research Methods in Library and Information Science: An Exploration with the Machine Learning Approach. Journal of the Association for Information Science and Technology, 2021(under review)</p>
    
-  
+    <div style="margin:auto;top:0px;left:0px;right:0px;bottom:0px;width:70%"; > 
+         <p align="center">Chengzhi Zhang, Liang Tian, Heting Chu. Usage Frequency and Application Variety of Research Methods in Library and Information Science: An Exploration with the Machine Learning Approach. Journal of the Association for Information Science and Technology, 2021(under review)</p>
+    </div>
+ 
+    </div>
         <script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
         <script type="text/javascript" src="js/echarts.min.js"></script>
         <!-- Uncomment this line if you want to dataTool extension
@@ -523,7 +525,8 @@ var option = {
 				interval:0,
 				rotate:45,
 				position:13
-			}
+			},
+			top: '90%'
         },
         // 图的标题
         title: {
@@ -555,8 +558,8 @@ var option = {
 			position: 'right'
 		},
 		grid: {
-			height: '58%',
-			top: '12%',
+			height: '56%',
+			top: '9%',
 			left: '35%',
 			right:'28%'
 		},
@@ -583,6 +586,7 @@ var option = {
 		yAxis: {
 			name: 'Topics',
 			type: 'category',
+			nameGap: 5,
 			data: topics,
 			axisLabel: {
 				textStyle: {
