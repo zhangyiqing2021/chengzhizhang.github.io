@@ -13,6 +13,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 
  
 ## Recent News
+* Call for Paper: Special issue about “Extracting and Evaluating of Knowledge Entities” at Aslib [Journal of Information Management[(https://www.emeraldgrouppublishing.com/calls-for-papers/extracting-and-evaluating-knowledge-entities), (Note: Select the special issue on 'Extracting and Evaluating of Knowledge Entities' please)
 * Call for Paper: The 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2021](https://eeke-workshop.github.io/2021/)) to be held as a virtual event as part of the JCDL2021
 * Call for Paper: Special issue about "AI + Informetrics" at [Scientometrics](https://link.springer.com/collections/ebfiegeiie)
 * In August 2021, Special issue (Extraction and Evaluation of Knowledge Entities from Scientific Documents) on Journal of Data and Information Science has been published and the link of the SI is: [https://www.sciendo.com/issue/JDIS/6/3](https://www.sciendo.com/issue/JDIS/6/3),  [[Editorial]](https://doi.org/10.2478/jdis-2021-0025)
