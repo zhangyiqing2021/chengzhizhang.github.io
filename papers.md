@@ -8,6 +8,7 @@ order:  3
  (*=corresponding author)
 ## 2021
 * [P2] Yi Zhang, Chengzhi Zhang, Philipp Mayr, and Arho Suominen. ***Proceedings of the 1st Workshop on AI + Informetrics (AII2021)***. co-located with the iConference2021, Virtual Event, China, March 17, 2021. [[Proceedings]](http://ceur-ws.org/Vol-2871/) [[DBLP]](https://dblp.org/db/conf/iconference/aii2021.html)
+* [J51] Yi Zhao, Lifan Liu, Chengzhi Zhang*.  Is Coronavirus-Related Research Becoming More Interdisciplinary? A Perspective of Co-occurrence Analysis and Diversity Measure of Scientific Articles. Technological Forecasting & Social Change. 2021.  (in press)
 * [J50] Chengzhi Zhang, Lifan Liu, Yuzhuo Wang. Characterizing References from Different Disciplines: A Perspective of Citation Content Analysis. ***Journal of Informetrics***, 2021, 15(2):101134. [[doi]](https://doi.org/10.1016/j.joi.2021.101134)  [[arxiv]](https://arxiv.org/abs/2101.07614)
 * [J49] Yingyi Zhang, Chengzhi Zhang\*. Enhancing Keyphrase Extraction from Microblogs using Human Reading Time. ***Journal of the Association for Information Science and Technology***, 2021, 72(5): 611-626. [[doi]](http://doi.org/10.1002/asi.24430)  [[arxiv]](https://arxiv.org/abs/2010.09934)
 * [J48] Qingqing Zhou, Chengzhi Zhang\*. Impacts Towards a comprehensive assessment of the book impact by integrating multiple evaluation sources. ***Journal of Informetrics***, 2021, 15(3): 101195. [[doi]](https://doi.org/10.1016/j.joi.2021.101195)  [[arxiv]](http://arxiv.org/abs/2107.10434)
